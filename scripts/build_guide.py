@@ -17,7 +17,7 @@ EPG_URL = os.environ.get("EPG_URL", "https://iptv-epg.org/files/epg-ua.xml")
 KYIV = ZoneInfo("Europe/Kyiv")
 OUT = Path("data/guide.json")
 CONFIG = Path("config/megogo_channels.json")
-SECONDARY_EPG = os.environ.get("SECONDARY_EPG", "https://iptvx.one/EPG_NOARCH")
+SECONDARY_EPG = os.environ.get("SECONDARY_EPG", "https://iptvx.one/EPG")
 SECONDARY_IDS = {
     "Viasat Kino HD": "tv1000-cee",
     "Viasat Kino Action HD": "tv1000-action-cee",
@@ -118,7 +118,7 @@ def main():
     try:
         secondary = ET.fromstring(fetch(SECONDARY_EPG, timeout=45))
         id_to_name = {v: k for k, v in SECONDARY_IDS.items()}
-        for p in secondary.findall("programme"):
+        # Add only programmes not already provided by the primary source.\n        primary_slots = {(p["channel"], day, p["start_time"]) for day, rows in by_date.items() for p in rows}\n        for p in secondary.findall("programme"):
             ch = id_to_name.get(p.get("channel"))
             if not ch:
                 continue
