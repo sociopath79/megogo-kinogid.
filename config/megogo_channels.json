@@ -1,0 +1,82 @@
+{
+  "groups": {
+    "Власні [M] канали": [
+      "[M] КІНОХІТ HD",
+      "[M] КОМЕДІЯ HD",
+      "[M] ДРАМА HD",
+      "[M] ЖАХИ HD",
+      "[M] БОЙОВИК HD",
+      "[M] РОМАНТИКА HD",
+      "[M] ІСТОРІЇ HD",
+      "[M] ТРИЛЕР HD",
+      "[M] Що подивитися HD",
+      "[M] Фільм на вечір HD",
+      "[M] Хіти Мегого",
+      "[M] Фільми 4K",
+      "[M] Друзі",
+      "[M] Пуаро",
+      "[M] Мердок",
+      "[M] Пес",
+      "[M] Сватів",
+      "[M] Дільничний з ДВРЗ"
+    ],
+    "Преміальні світові канали": [
+      "Viasat Megahit HD",
+      "Viasat Kino HD",
+      "Viasat Kino Action HD",
+      "Viasat Kino Comedy HD",
+      "Viasat Kino World",
+      "Viasat Serial HD",
+      "Epic Drama HD",
+      "Cine+ HD",
+      "Cine+ Hit HD",
+      "Cine+ Legend",
+      "Cine+ Kids HD",
+      "FX HD",
+      "AMC",
+      "FilmBox",
+      "FilmBox Action",
+      "Timeless Dizi Channel"
+    ],
+    "Українські кіноканали": [
+      "Enter-фільм HD",
+      "BOLT HD",
+      "Star Cinema HD",
+      "Star Family HD",
+      "FILMUADRAMA HD",
+      "PROKINO"
+    ]
+  },
+  "aliases": {
+    "Epic Drama HD": [
+      "UA - Epic Drama"
+    ],
+    "Cine+ HD": [
+      "UA - Cine +"
+    ],
+    "Cine+ Hit HD": [
+      "UA - Cine + HIT"
+    ],
+    "Cine+ Legend": [
+      "UA - Cine + LEGEND"
+    ],
+    "Cine+ Kids HD": [
+      "UA - Cine + KIDS"
+    ],
+    "Enter-фільм HD": [
+      "UA - Enter- film"
+    ],
+    "BOLT HD": [
+      "UA - Bolt"
+    ],
+    "Star Cinema HD": [
+      "UA - Star Cinema"
+    ],
+    "Star Family HD": [
+      "UA - Star Family"
+    ],
+    "FILMUADRAMA HD": [
+      "UA - FILMUADRAMA"
+    ]
+  }
+}
