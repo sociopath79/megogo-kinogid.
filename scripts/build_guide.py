@@ -15,8 +15,8 @@ from zoneinfo import ZoneInfo
 EPG_URL = os.environ.get("EPG_URL", "https://iptv-epg.org/files/epg-ua.xml")
 KYIV = ZoneInfo("Europe/Kyiv")
 OUT = Path("data/guide.json")
-MOVIE_HINTS = ("кіно", "kino", "cinema", "movie", "film", "фільм", "фильм", "megogo")
-EXCLUDE = ("sport", "спорт", "music", "муз", "news", "новин")
+MOVIE_HINTS = ("кіно", "kino", "cinema", "movie", "film", "фільм", "фильм", "megogo", "cine", "viasat", "tv1000", "paramount", "fox", "amc", "sci-fi", "sci fi", "bollywood", "horror", "action", "comedy", "romance", "premium", "enter-фільм", "enter-film", "enter- film", "ніку", "filmzone", "filmbox", "hollywood")
+EXCLUDE = ("sport", "спорт", "music", "муз", "news", "новин", "football", "футбол", "kids", "дитяч", "documentary", "discovery", "history", "animal")\n# Optional curated EPG display names: one exact channel name per line.\nALLOWLIST = Path("config/movie_channels.txt")
 def fetch(url, timeout=90):
     req = urllib.request.Request(url, headers={"User-Agent": "MegogoKinoGuide/1.0 (+public EPG viewer)"})
     with urllib.request.urlopen(req, timeout=timeout) as r:
@@ -55,7 +55,7 @@ def main():
     today = dt.datetime.now(KYIV).date()
     allowed = {(today + dt.timedelta(days=i)).isoformat() for i in range(8)}
     root = ET.fromstring(fetch(EPG_URL))
-    channels = {}
+    curated = {line.strip().casefold() for line in ALLOWLIST.read_text(encoding="utf-8").splitlines() if line.strip() and not line.startswith("#")} if ALLOWLIST.exists() else set()\n    channels = {}
     for ch in root.findall("channel"):
         name = child_text(ch, "display-name")
         if name:
@@ -68,11 +68,11 @@ def main():
         start = parse_time(p.get("start"))
         if not start or start.date().isoformat() not in allowed:
             continue
-        title = child_text(p, "title")
+        title = clean_text(child_text(p, "title"))
         if not title:
             continue
-        desc = child_text(p, "desc")
-        cats = [n.text.strip() for n in p.findall("category") if n.text]
+        desc = clean_text(child_text(p, "desc")) or ""
+        cats = [clean_text(n.text.strip()) for n in p.findall("category") if n.text]\n        cats = [c for c in cats if c]
         yr = child_text(p, "date")
         by_date[start.date().isoformat()].append({
             "channel": ch, "start_time": start.strftime("%H:%M"),
@@ -84,7 +84,7 @@ def main():
         rows.sort(key=lambda p: (p["start_time"], p["channel"]))
     OUT.parent.mkdir(parents=True, exist_ok=True)
     output = {
-        "coverage_note": "Усі канали джерела EPG; належність до MEGOGO Максимальна не підтверджена.",
+        "coverage_note": "Кандидати в кіноканали за назвами EPG; належність до MEGOGO Максимальна не підтверджена.",
         "updated": dt.datetime.now(KYIV).isoformat(timespec="minutes"),
         "source": EPG_URL,
         "days": [{"date": day, "programmes": rows} for day, rows in by_date.items()],
