@@ -88,7 +88,7 @@ def main():
         rows.sort(key=lambda p: (p["start_time"], p["channel"]))
     OUT.parent.mkdir(parents=True, exist_ok=True)
     output = {
-        "coverage_note": "Кандидати в кіноканали за назвами EPG; належність до MEGOGO Максимальна не підтверджена.",
+        "coverage_note": "Відібрані кіноканали з доступного EPG; їхня наявність у MEGOGO Максимальна не підтверджена.",
         "updated": dt.datetime.now(KYIV).isoformat(timespec="minutes"),
         "source": EPG_URL,
         "days": [{"date": day, "programmes": rows} for day, rows in by_date.items()],
