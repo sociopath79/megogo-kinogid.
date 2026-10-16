@@ -1,6 +1,6 @@
 {
   "coverage_note": "Список 40 каналів надано користувачем. EPG доступний не для всіх; відсутні розклади не вигадуються.",
-  "updated": "2026-10-17T00:32+03:00",
+  "updated": "2026-10-17T00:33+03:00",
   "source": "https://iptv-epg.org/files/epg-ua.xml",
   "additional_source": "https://iptvx.one/EPG_NOARCH",
   "channel_groups": {
