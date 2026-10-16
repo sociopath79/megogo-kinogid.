@@ -1,6 +1,6 @@
 {
   "coverage_note": "Список 40 каналів надано користувачем. EPG доступний не для всіх; відсутні розклади не вигадуються.",
-  "updated": "2026-10-17T00:43+03:00",
+  "updated": "2026-10-17T00:52+03:00",
   "source": "https://iptv-epg.org/files/epg-ua.xml",
   "additional_source": "https://iptvx.one/EPG_NOARCH",
   "channel_groups": {
@@ -70,7 +70,6 @@
     "Enter-фільм HD",
     "BOLT HD",
     "Star Cinema HD",
-    "Star Family HD",
     "FILMUADRAMA HD"
   ],
   "epg_missing": [
@@ -101,21 +100,13 @@
     "Твоє кіно Хіт HD",
     "Твоє кіно Action HD",
     "Твоє кіно Relax HD",
+    "Star Family HD",
     "PROKINO"
   ],
   "days": [
     {
       "date": "2026-10-17",
       "programmes": [
-        {
-          "channel": "Star Family HD",
-          "start_time": "00:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
         {
           "channel": "Cine+ Kids HD",
           "start_time": "00:05",
@@ -216,15 +207,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "01:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "Viasat Kino Action HD",
           "start_time": "01:00",
           "title": "х/ф Маньчжурский кандидат",
@@ -311,15 +293,6 @@
           "title": "Страх у твоєму дом",
           "year": null,
           "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "02:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -450,15 +423,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "03:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "Viasat Kino Action HD",
           "start_time": "03:10",
           "title": "х/ф Плохой лейтенант",
@@ -531,15 +495,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "04:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "Star Cinema HD",
           "start_time": "04:05",
           "title": "Доктор Щастя",
@@ -581,15 +536,6 @@
           "title": "Нічне промо",
           "year": null,
           "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "05:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -693,15 +639,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "06:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "06:20",
           "title": "х/ф Интуиция",
@@ -801,15 +738,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "07:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "Epic Drama HD",
           "start_time": "07:05",
           "title": "Розслідування Мердок",
@@ -896,15 +824,6 @@
           "title": "Розслідування Мердок",
           "year": null,
           "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "08:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -1026,15 +945,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "09:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "Viasat Kino Action HD",
           "start_time": "09:00",
           "title": "х/ф Голодные игры: Сойка-пересмешница. Часть II",
@@ -1139,15 +1049,6 @@
           "title": "Гра долі",
           "year": null,
           "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "10:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -1260,15 +1161,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "11:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "Cine+ Legend",
           "start_time": "11:05",
           "title": "Чудо в краю забуття",
@@ -1355,15 +1247,6 @@
           "title": "Гардейкр",
           "year": null,
           "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "12:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -1485,15 +1368,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "13:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "BOLT HD",
           "start_time": "13:10",
           "title": "Гаряча точк",
@@ -1553,15 +1427,6 @@
           "title": "Гаряча точк",
           "year": null,
           "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "14:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -1683,15 +1548,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "15:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "Viasat Serial HD",
           "start_time": "15:00",
           "title": "т/с Пляжний готель 4 ┊ 8",
@@ -1791,15 +1647,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "16:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "Viasat Kino HD",
           "start_time": "16:00",
           "title": "х/ф В лучах славы",
@@ -1877,15 +1724,6 @@
           "title": "Воруши ластами 2: Втеча з раю",
           "year": null,
           "genre": "Детям",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "17:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -1974,15 +1812,6 @@
           "channel": "Viasat Kino HD",
           "start_time": "17:55",
           "title": "х/ф Мисс Поттер",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "18:00",
-          "title": "No Data",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -2088,15 +1917,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "19:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "FILMUADRAMA HD",
           "start_time": "19:05",
           "title": "Гречанк",
@@ -2183,15 +2003,6 @@
           "title": "Гречанк",
           "year": null,
           "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "20:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -2286,15 +2097,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "21:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "21:00",
           "title": "х/ф Миллионер поневоле",
@@ -2372,15 +2174,6 @@
           "title": "Комісар Ріккард",
           "year": null,
           "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "22:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -2493,15 +2286,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "23:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "Viasat Kino World",
           "start_time": "23:00",
           "title": "х/ф Округление",
@@ -2569,15 +2353,6 @@
     {
       "date": "2026-10-18",
       "programmes": [
-        {
-          "channel": "Star Family HD",
-          "start_time": "00:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
         {
           "channel": "Viasat Serial HD",
           "start_time": "00:05",
@@ -2696,15 +2471,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "01:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "FILMUADRAMA HD",
           "start_time": "01:10",
           "title": "Страх у твоєму дом",
@@ -2773,15 +2539,6 @@
           "title": "Страх у твоєму дом",
           "year": null,
           "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "02:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -2903,15 +2660,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "03:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "Cine+ Legend",
           "start_time": "03:10",
           "title": "Нічне промо",
@@ -2975,15 +2723,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "04:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "Viasat Kino HD",
           "start_time": "04:15",
           "title": "х/ф Что тебя не убивает",
@@ -3014,15 +2753,6 @@
           "channel": "Viasat Kino Action HD",
           "start_time": "04:35",
           "title": "х/ф Вышка",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "05:00",
-          "title": "No Data",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -3119,15 +2849,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "06:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "Enter-фільм HD",
           "start_time": "06:30",
           "title": "Зіркові долі",
@@ -3205,15 +2926,6 @@
           "title": "Комісар Рекс",
           "year": 1994,
           "genre": "Сериалы, детектив,боевик,криминал",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "07:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -3317,15 +3029,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "08:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "Cine+ Kids HD",
           "start_time": "08:15",
           "title": "Уроки тітоньки Сови",
@@ -3421,15 +3124,6 @@
           "title": "Корисні поради",
           "year": null,
           "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "09:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -3542,15 +3236,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "10:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "Epic Drama HD",
           "start_time": "10:10",
           "title": "Розслідування Мердок",
@@ -3659,15 +3344,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "11:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "Epic Drama HD",
           "start_time": "11:05",
           "title": "Розслідування Мердок",
@@ -3736,15 +3412,6 @@
           "title": "Розслідування Мердок",
           "year": null,
           "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "12:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -3875,15 +3542,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "13:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "BOLT HD",
           "start_time": "13:05",
           "title": "Гаряча точк",
@@ -3974,15 +3632,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "14:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "Viasat Kino World",
           "start_time": "14:05",
           "title": "х/ф Альбатрос",
@@ -4069,15 +3718,6 @@
           "title": "Історія Тіто та Вінні",
           "year": null,
           "genre": "Детям",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "15:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -4181,15 +3821,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "16:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "Viasat Serial HD",
           "start_time": "16:15",
           "title": "т/с Другий захід ┊ 2",
@@ -4258,15 +3889,6 @@
           "title": "Принцеса Еммі",
           "year": null,
           "genre": "Детям",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "17:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -4361,15 +3983,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "18:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "Star Cinema HD",
           "start_time": "18:05",
           "title": "Східні солодощі",
@@ -4438,15 +4051,6 @@
           "title": "Зниклі",
           "year": null,
           "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "19:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -4550,15 +4154,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "20:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "Viasat Kino Action HD",
           "start_time": "20:00",
           "title": "х/ф Шестой день",
@@ -4618,15 +4213,6 @@
           "title": "Форсайт",
           "year": null,
           "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "21:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -4717,15 +4303,6 @@
           "title": "Вбивство в маленькому містечк",
           "year": null,
           "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "22:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -4838,15 +4415,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "23:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "BOLT HD",
           "start_time": "23:05",
           "title": "Маестр",
@@ -4933,15 +4501,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "00:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "Viasat Serial HD",
           "start_time": "00:20",
           "title": "т/с Лють ┊ 7 Тевтонський зсув",
@@ -5010,15 +4569,6 @@
           "title": "Гра долі",
           "year": null,
           "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "01:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -5104,15 +4654,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "02:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "Viasat Kino World",
           "start_time": "02:15",
           "title": "х/ф Неукротимые шлемы",
@@ -5158,15 +4699,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Star Family HD",
-          "start_time": "03:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "Viasat Kino HD",
           "start_time": "03:15",
           "title": "х/ф Хлоя",
@@ -5179,15 +4711,6 @@
           "channel": "Viasat Kino World",
           "start_time": "03:35",
           "title": "х/ф Гипнотизёр",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "04:00",
-          "title": "No Data",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -5216,114 +4739,6 @@
           "start_time": "04:35",
           "title": "х/ф Запретное царство",
           "year": 2008,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "05:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "06:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "07:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "08:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "09:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "10:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "11:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "12:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "13:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "14:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "15:00",
-          "title": "No Data",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Family HD",
-          "start_time": "16:00",
-          "title": "No Data",
-          "year": null,
           "genre": null,
           "imdb_rating": null,
           "imdb_id": null
