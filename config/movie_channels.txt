@@ -1,0 +1,28 @@
+# Curated film and film/series EPG channels; NOT a verified MEGOGO Maximum package list.
+UA - Cine +
+UA - Cine + HIT
+UA - Cine + LEGEND
+UA - Enter- film
+UA - Hollywood
+UA - KinoKazka
+UA - Star Cinema
+UA - Star Family
+UA - TV 1000
+UA - TV 1000 Action
+UA - TV1000 World Kino
+UA - ViP Comedy
+UA - ViP Megahit
+UA - Кino 1
+UA - KS TV - Good cinema
+UA - KS TV - Horror
+UA - KS TV - Comedy
+UA - KS TV - Crime
+UA - KS TV - Detective
+UA - KS TV - Melodrama
+UA - KS TV - Warrior
+UA - KS TV - Family
+UA - FILMUADRAMA
+UA - Fox
+UA - Fox Life
+UA - Epic Drama
+UA - DORAMA
