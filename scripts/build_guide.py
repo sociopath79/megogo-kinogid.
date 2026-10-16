@@ -17,7 +17,12 @@ KYIV = ZoneInfo("Europe/Kyiv")
 OUT = Path("data/guide.json")
 CONFIG = Path("config/megogo_channels.json")
 SECONDARY_EPG = os.environ.get("SECONDARY_EPG", "https://iptvx.one/EPG_NOARCH")
-SECONDARY_IDS = {"Viasat Kino HD": "tv1000-cee", "Viasat Kino Action HD": "tv1000-action-cee"}
+SECONDARY_IDS = {
+    "Viasat Kino HD": "tv1000-cee",
+    "Viasat Kino Action HD": "tv1000-action-cee",
+    "Viasat Kino Comedy HD": "vip-comedy-cee",
+    "Viasat Kino World": "tv1000-worldkino",
+}
 def fetch(url, timeout=90):
     req = urllib.request.Request(url, headers={"User-Agent": "MegogoKinoGuide/1.0 (+public EPG viewer)"})
     with urllib.request.urlopen(req, timeout=timeout) as r:
@@ -123,6 +128,10 @@ def main():
         print("Secondary EPG checked:", SECONDARY_EPG)
     except Exception as exc:
         print("Secondary EPG unavailable:", type(exc).__name__, str(exc)[:180])
+    # Availability means actual programme rows, not merely a matching channel name.
+    covered = {p["channel"] for rows in by_date.values() for p in rows}
+    available = [name for name in names if name in covered]
+    missing = [name for name in names if name not in covered]
     for rows in by_date.values():
         unique = {(p["channel"], p["start_time"], p["title"]): p for p in rows}
         rows[:] = sorted(unique.values(), key=lambda p: (p["start_time"], p["channel"]))
