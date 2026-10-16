@@ -11,6 +11,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
 from zoneinfo import ZoneInfo
+from imdb_enrich import enrich
 
 EPG_URL = os.environ.get("EPG_URL", "https://iptv-epg.org/files/epg-ua.xml")
 KYIV = ZoneInfo("Europe/Kyiv")
@@ -150,9 +151,10 @@ def main():
     for rows in by_date.values():
         unique = {(p["channel"], p["start_time"], p["title"]): p for p in rows}
         rows[:] = sorted(unique.values(), key=lambda p: (p["start_time"], p["channel"]))
+    enrich(by_date)
     OUT.parent.mkdir(parents=True, exist_ok=True)
     output = {
-        "coverage_note": "Список 40 каналів надано користувачем. EPG доступний не для всіх; відсутні розклади не вигадуються.",
+        "coverage_note": "IMDb додається лише за однозначним збігом назви та року; непідтверджені рейтинги не показуються.",
         "updated": dt.datetime.now(KYIV).isoformat(timespec="minutes"),
         "source": EPG_URL,
         "additional_source": SECONDARY_EPG,
