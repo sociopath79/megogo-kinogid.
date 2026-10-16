@@ -22,6 +22,7 @@ SECONDARY_IDS = {
     "Viasat Kino Action HD": "tv1000-action-cee",
     "Viasat Kino Comedy HD": "vip-comedy-cee",
     "Viasat Kino World": "tv1000-worldkino",
+    "Viasat Serial HD": "viasat-serial",
 }
 def fetch(url, timeout=90):
     req = urllib.request.Request(url, headers={"User-Agent": "MegogoKinoGuide/1.0 (+public EPG viewer)"})
