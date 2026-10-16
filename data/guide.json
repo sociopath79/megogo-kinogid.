@@ -1,0 +1,3591 @@
+{
+  "updated": "2026-10-16T23:46+03:00",
+  "source": "https://iptv-epg.org/files/epg-ua.xml",
+  "days": [
+    {
+      "date": "2026-10-16",
+      "programmes": [
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "03:00",
+          "title": "Єдині новини",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "03:00",
+          "title": "Стартрек: Відплата",
+          "year": null,
+          "genre": "Пригоди;Фантастика;Бойовик",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "03:25",
+          "title": "Нью-Йорк, Нью-Йорк",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "03:30",
+          "title": "Пчелка Майя: Медовый движ",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "04:35",
+          "title": "Чорна сукня",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "04:55",
+          "title": "Хранители пяти королевств",
+          "year": null,
+          "genre": "Movie, General",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "05:06",
+          "title": "Королівство повного місяця",
+          "year": null,
+          "genre": "Комедія;Пригоди",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "05:30",
+          "title": "Україна вражає",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "05:45",
+          "title": "Моцарт і Кит",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "06:00",
+          "title": "Пошт",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "06:10",
+          "title": "Східні солодощі",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "06:30",
+          "title": "Зіркові долі",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "06:36",
+          "title": "Вальхалла: Тор Раґнарок",
+          "year": null,
+          "genre": "За коміксами;Фентезі;Пригоди;Трилер",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "06:40",
+          "title": "Тайна третьей планеты",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "06:50",
+          "title": "Пошт",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "07:00",
+          "title": "Комісар Рекс",
+          "year": 1994,
+          "genre": "Сериалы, детектив,боевик,криминал",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "07:15",
+          "title": "Ластівки та амазонки",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "07:30",
+          "title": "Гормит",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "07:35",
+          "title": "Пошт",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "07:45",
+          "title": "Kids Fli",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "07:55",
+          "title": "Казки на піску. Чому кіт після обіду вмивається",
+          "year": null,
+          "genre": "Undefined",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "08:00",
+          "title": "Карли - искательница приключений. Древнее Королевств",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "08:15",
+          "title": "Гадкий утенок и я",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "08:17",
+          "title": "Вигляд зверху кращий",
+          "year": null,
+          "genre": "Комедія;Мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "08:20",
+          "title": "Пошт",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "08:50",
+          "title": "Дворецький",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "09:00",
+          "title": "Корисні поради",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "09:10",
+          "title": "Гречанк",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "09:15",
+          "title": "Телемагазин",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "09:25",
+          "title": "Маша і море",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "09:41",
+          "title": "Твої, мої і наші",
+          "year": null,
+          "genre": "Мелодрама;Комедія;Сімейний",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "09:45",
+          "title": "Истинный рыцарь",
+          "year": null,
+          "genre": "Movie, General",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "09:55",
+          "title": "Гречанк",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "10:40",
+          "title": "Гречанк",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "10:45",
+          "title": "Корисні поради",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "10:55",
+          "title": "Мільйони",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "11:00",
+          "title": "Чорна сукня",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "11:05",
+          "title": "Коефіцієнт інтелекту",
+          "year": null,
+          "genre": "Комедія;Мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "11:05",
+          "title": "Реальная белка",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "11:15",
+          "title": "Телемагазин",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "11:30",
+          "title": "Гречанк",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "12:15",
+          "title": "Мереживо дол",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "12:30",
+          "title": "Волшебник Виплала",
+          "year": null,
+          "genre": "Movie, General",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "12:35",
+          "title": "Східні солодощі",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "12:35",
+          "title": "Невимушено",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "12:41",
+          "title": "Голос кохання",
+          "year": null,
+          "genre": "Комедія;Біографічний;Мюзикл;Драма",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "12:45",
+          "title": "Гра долі",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "13:00",
+          "title": "Мереживо дол",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "13:30",
+          "title": "Правда життя",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "13:45",
+          "title": "Мереживо дол",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "13:55",
+          "title": "Залізна леді",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "14:00",
+          "title": "Мисливці за головам",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "14:10",
+          "title": "Крутые яйца 2",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "14:30",
+          "title": "Мереживо дол",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "14:47",
+          "title": "Шеф",
+          "year": null,
+          "genre": "Комедія",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "14:50",
+          "title": "Мисливці за головам",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "15:15",
+          "title": "Пошт",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "15:40",
+          "title": "Вбивство в Гамбургу",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "15:40",
+          "title": "Мара и Бог огня",
+          "year": null,
+          "genre": "Movie, General",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "15:40",
+          "title": "Тенор",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "15:50",
+          "title": "Позаземний",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "16:05",
+          "title": "Пошт",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "16:08",
+          "title": "Час розплати",
+          "year": null,
+          "genre": "Фентезі;Бойовик;Трилер;Детектив",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "16:50",
+          "title": "Пошт",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "17:05",
+          "title": "Кентервильское привидение",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "17:15",
+          "title": "Альбатрос",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "17:30",
+          "title": "Гормит",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "17:40",
+          "title": "Пошт",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "17:40",
+          "title": "Kids Fli",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "17:50",
+          "title": "Казки на піску. Ледача наречена",
+          "year": null,
+          "genre": "Undefined",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "18:00",
+          "title": "Карли - искательница приключений. Древнее Королевств",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "18:00",
+          "title": "Право на Надію",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "18:06",
+          "title": "Діаманти залишаються назавжди",
+          "year": null,
+          "genre": "Екранізації;Пригоди;Бойовик;Трилер",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "18:15",
+          "title": "Все псы попадают в рай",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "18:25",
+          "title": "Гречанк",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "19:00",
+          "title": "Комісар Рекс",
+          "year": 1994,
+          "genre": "Сериалы, детектив,боевик,криминал",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "19:10",
+          "title": "Гречанк",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "19:10",
+          "title": "Красуня та чудовисько",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "19:35",
+          "title": "Рикки-Тикки-Тави",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "19:35",
+          "title": "Східні солодощі",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "19:50",
+          "title": "Казки на піску. Порошок з черепків",
+          "year": null,
+          "genre": "Undefined",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "20:00",
+          "title": "Гречанк",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "20:00",
+          "title": "Ниль",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "20:07",
+          "title": "Термінатор: Генезис",
+          "year": 2029,
+          "genre": "Пригоди;Бойовик;Фантастика;Трилер",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "20:10",
+          "title": "Малыш и Карлсон",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "20:30",
+          "title": "Жил-был пес",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "20:45",
+          "title": "Гречанк",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "20:45",
+          "title": "Шимми: Первый король обезьян",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "21:00",
+          "title": "Зниклі",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "21:00",
+          "title": "Асако 1 і 2",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "21:30",
+          "title": "Мереживо дол",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "22:07",
+          "title": "Хроніки Спайдервіка",
+          "year": null,
+          "genre": "Фентезі;Пригоди;Сімейний",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "22:15",
+          "title": "Мереживо дол",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "22:25",
+          "title": "Приключения мышонка Переса",
+          "year": null,
+          "genre": "Movie, General",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "22:55",
+          "title": "Якби ж то",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "23:00",
+          "title": "Мереживо дол",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "23:00",
+          "title": "Ініціали С. Г.",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "23:39",
+          "title": "Так, ні, не знаю",
+          "year": null,
+          "genre": "Комедія;Мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "23:45",
+          "title": "Мереживо дол",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "programmes": [
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "00:00",
+          "title": "Карлсон вернулся",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "00:20",
+          "title": "Шапка-невидимка",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "00:30",
+          "title": "Страх у твоєму дом",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "00:30",
+          "title": "Гормит",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "00:35",
+          "title": "Мексиканська стіна",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "00:40",
+          "title": "Гра долі",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "00:40",
+          "title": "Східні солодощі",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "00:45",
+          "title": "Kids Fli",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "00:55",
+          "title": "Пчелка Майя: Медовый движ",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "01:15",
+          "title": "Страх у твоєму дом",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "01:25",
+          "title": "Скептик",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "01:31",
+          "title": "Трансформери: Помста полеглих",
+          "year": 2007,
+          "genre": "Пригоди;Бойовик;Фантастика",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "02:00",
+          "title": "Страх у твоєму дом",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "02:15",
+          "title": "Омий мене у річці",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "02:20",
+          "title": "Хранители пяти королевств",
+          "year": null,
+          "genre": "Movie, General",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "02:25",
+          "title": "Україна: забута історія",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "02:25",
+          "title": "Бестселер з кохання",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "02:50",
+          "title": "Квочк",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "03:00",
+          "title": "Єдині новини",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "03:54",
+          "title": "Трансформери 3",
+          "year": 1969,
+          "genre": "За коміксами;Пригоди;Фантастика;Бойовик",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "03:55",
+          "title": "Айріс",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "04:05",
+          "title": "Гадкий утенок и я",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "04:05",
+          "title": "Доктор Щастя",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "05:30",
+          "title": "Україна вражає",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "05:35",
+          "title": "Истинный рыцарь",
+          "year": null,
+          "genre": "Movie, General",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "05:45",
+          "title": "Літо Бегнольдів",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "05:55",
+          "title": "Право на Надію",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "06:00",
+          "title": "Пошт",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "06:22",
+          "title": "Нянька на Різдво",
+          "year": null,
+          "genre": "Комедія",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "06:30",
+          "title": "Зіркові долі",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "06:50",
+          "title": "Пошт",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "07:00",
+          "title": "Комісар Рекс",
+          "year": 1994,
+          "genre": "Сериалы, детектив,боевик,криминал",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "07:00",
+          "title": "Дюймовочка",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "07:10",
+          "title": "Кращі часи",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "07:30",
+          "title": "Гормит",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "07:30",
+          "title": "Східні солодощ",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "07:35",
+          "title": "Пошт",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "07:45",
+          "title": "Kids Fli",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "07:55",
+          "title": "Красуня та чудовисько (2014)",
+          "year": null,
+          "genre": "Фентезі;Сімейний;Драма",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "07:55",
+          "title": "Казки на піску. Лисиця і лисеня",
+          "year": null,
+          "genre": "Undefined",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "08:00",
+          "title": "Карли - искательница приключений. Древнее Королевств",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "08:15",
+          "title": "Реальная белка",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "08:20",
+          "title": "Пошт",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "09:00",
+          "title": "Корисні поради",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "09:00",
+          "title": "Великий злий вовк",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "09:05",
+          "title": "Гречанк",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "09:30",
+          "title": "Садові поради",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "09:40",
+          "title": "Волшебник Виплала",
+          "year": null,
+          "genre": "Movie, General",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "09:44",
+          "title": "Містер Бін на відпочинку",
+          "year": null,
+          "genre": "Комедія;Сімейний",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "09:50",
+          "title": "Гречанк",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "10:00",
+          "title": "Гра долі",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "10:35",
+          "title": "Гречанк",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "10:50",
+          "title": "Східні солодощі",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "10:50",
+          "title": "Яскрава зірка",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "11:00",
+          "title": "Таємниці світу",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "11:10",
+          "title": "Род-каскадер",
+          "year": null,
+          "genre": "Комедія;Спорт",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "11:20",
+          "title": "Гречанк",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "11:20",
+          "title": "Крутые яйца 2",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "11:30",
+          "title": "Шість соток",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "12:10",
+          "title": "Мереживо дол",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "12:20",
+          "title": "Мисливці за головам",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "12:38",
+          "title": "Самба",
+          "year": null,
+          "genre": "Комедія;Мелодрама;Драма",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "12:45",
+          "title": "Мара и Бог огня",
+          "year": null,
+          "genre": "Movie, General",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "12:45",
+          "title": "Усміхніться! Знімаю!",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "12:55",
+          "title": "Мереживо дол",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "13:40",
+          "title": "Мереживо дол",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "14:15",
+          "title": "Все псы попадают в рай",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "14:15",
+          "title": "Східні солодощі",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "14:15",
+          "title": "Очікування",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "14:20",
+          "title": "Мисливці за головам",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "14:25",
+          "title": "Мереживо дол",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "14:31",
+          "title": "Закохані невротики",
+          "year": null,
+          "genre": "Комедія;Мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "15:10",
+          "title": "Пошт",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "15:20",
+          "title": "Вбивство в Гамбургу",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "15:40",
+          "title": "Белоснежка: Месть гномов",
+          "year": null,
+          "genre": "Movie, General",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "15:46",
+          "title": "Арктика",
+          "year": null,
+          "genre": "Пригоди;Драма",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "15:55",
+          "title": "Алілуя",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "16:00",
+          "title": "Пошт",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "16:45",
+          "title": "Пошт",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "17:15",
+          "title": "Катерок",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "17:20",
+          "title": "Всесвітня війна Z",
+          "year": null,
+          "genre": "Жахи;Бойовик;Фантастика",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "17:30",
+          "title": "Гормит",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "17:30",
+          "title": "Тихий клас",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "17:35",
+          "title": "Пошт",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "17:35",
+          "title": "Доктор Щастя",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "17:40",
+          "title": "Kids Fli",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "17:50",
+          "title": "Казки на піску. Пан Коцький",
+          "year": null,
+          "genre": "Undefined",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "18:00",
+          "title": "Карли - искательница приключений. Древнее Королевств",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "18:15",
+          "title": "Призрак в законе",
+          "year": null,
+          "genre": "Movie, General",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "18:20",
+          "title": "Гречанк",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "19:00",
+          "title": "Зниклі",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "19:05",
+          "title": "Гречанк",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "19:11",
+          "title": "Розмови з моїм садівником",
+          "year": null,
+          "genre": "Комедія;Драма",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "19:20",
+          "title": "Бестселер з кохання",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "19:20",
+          "title": "Королева",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "19:45",
+          "title": "Цапля и журавль",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "19:50",
+          "title": "Гречанк",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "20:00",
+          "title": "Ниль",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "20:10",
+          "title": "Карлсон вернулся",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "20:30",
+          "title": "Тайна третьей планеты",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "20:35",
+          "title": "Гречанк",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "20:55",
+          "title": "Погані дівчиська",
+          "year": null,
+          "genre": "Комедія",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "20:55",
+          "title": "Східні солодощі",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "21:00",
+          "title": "Повітряна куля",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "21:20",
+          "title": "Мереживо дол",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "21:25",
+          "title": "Новые приключения пса и его друзей",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "22:05",
+          "title": "Мереживо дол",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "22:28",
+          "title": "Телеведучий: Легенда про Рона Борганді",
+          "year": 1970,
+          "genre": "Комедія",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "22:30",
+          "title": "Приключения мышонка Переса 2",
+          "year": null,
+          "genre": "Movie, General",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "22:50",
+          "title": "Мереживо дол",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "23:00",
+          "title": "Комісар Рекс",
+          "year": 1994,
+          "genre": "Сериалы, детектив,боевик,криминал",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "23:00",
+          "title": "Округлення",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "23:40",
+          "title": "Мереживо дол",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "programmes": [
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "00:00",
+          "title": "Гормит",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "00:02",
+          "title": "Родина за хвилину",
+          "year": null,
+          "genre": "Комедія;Драма",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "00:10",
+          "title": "Гормит",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "00:10",
+          "title": "Східні солодощі",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "00:20",
+          "title": "Гормит",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "00:25",
+          "title": "Страх у твоєму дом",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "00:30",
+          "title": "Шпана",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "00:35",
+          "title": "Гормит",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "00:45",
+          "title": "Гормит",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "01:00",
+          "title": "Гра долі",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "01:00",
+          "title": "Гормит",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "01:10",
+          "title": "Страх у твоєму дом",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "01:15",
+          "title": "Мара и Бог огня",
+          "year": null,
+          "genre": "Movie, General",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "01:45",
+          "title": "Україна вражає",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "01:55",
+          "title": "Страх у твоєму дом",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "01:55",
+          "title": "Арахісовий сокіл",
+          "year": null,
+          "genre": "Комедія;Пригоди;Драма",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "02:00",
+          "title": "Гей, Вікторе!",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "02:40",
+          "title": "Кафе на Садові",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "02:45",
+          "title": "Реальная белка",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "03:00",
+          "title": "Єдині новини",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "03:28",
+          "title": "Давайте потанцюємо",
+          "year": null,
+          "genre": "Комедія;Музичний;Драма",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "03:35",
+          "title": "Позаземний",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "03:40",
+          "title": "Небезпечне місто",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "04:10",
+          "title": "Пчелка Майя: Медовый движ",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "05:10",
+          "title": "Голий пістолет (1988)",
+          "year": null,
+          "genre": "Комедія;Кримінал",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "05:30",
+          "title": "Україна вражає",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "05:35",
+          "title": "Истинный рыцарь",
+          "year": null,
+          "genre": "Movie, General",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "05:50",
+          "title": "Бестселер з кохання",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "05:50",
+          "title": "Останнє кохання містера Моргана",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "06:00",
+          "title": "Пошт",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "06:30",
+          "title": "Зіркові долі",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "06:31",
+          "title": "Аероплан",
+          "year": null,
+          "genre": "Комедія",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "06:50",
+          "title": "Пошт",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "07:00",
+          "title": "Комісар Рекс",
+          "year": 1994,
+          "genre": "Сериалы, детектив,боевик,криминал",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "07:00",
+          "title": "Дикие лебеди",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "07:25",
+          "title": "Позаземний",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "07:35",
+          "title": "Пошт",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "07:45",
+          "title": "Мільйони",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "07:55",
+          "title": "Принцеса-наречена",
+          "year": null,
+          "genre": "Комедія;Мелодрама;Фентезі;Пригоди",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "08:00",
+          "title": "Гормит",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "08:15",
+          "title": "Гормит",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "08:20",
+          "title": "Пошт",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "08:25",
+          "title": "Гормит",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "08:40",
+          "title": "Гормит",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "08:50",
+          "title": "Гормит",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "09:00",
+          "title": "Корисні поради",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "09:00",
+          "title": "Гормит",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "09:10",
+          "title": "Гречанк",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "09:15",
+          "title": "Аленький цветочек",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "09:20",
+          "title": "Невимушено",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "09:30",
+          "title": "Садові поради",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "09:33",
+          "title": "Двійник",
+          "year": null,
+          "genre": "Пригоди;Фантастика;Бойовик;Трилер",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "09:35",
+          "title": "Східні солодощ",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "09:55",
+          "title": "Гречанк",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "09:55",
+          "title": "Все псы попадают в рай",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "10:00",
+          "title": "Гра долі",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "10:40",
+          "title": "Гречанк",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "10:45",
+          "title": "Залізна леді",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "11:00",
+          "title": "Таємниці світу",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "11:20",
+          "title": "Призрак в законе",
+          "year": null,
+          "genre": "Movie, General",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "11:25",
+          "title": "Гречанк",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "11:25",
+          "title": "Трансформери: Останній лицар",
+          "year": null,
+          "genre": "За коміксами;Пригоди;Бойовик;Фантастика",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "11:30",
+          "title": "Шість соток",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "12:10",
+          "title": "Мереживо дол",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "12:20",
+          "title": "Мисливці за головами",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "12:25",
+          "title": "Тенор",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "12:55",
+          "title": "Мереживо дол",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "12:55",
+          "title": "Карли - искательница приключений. Древнее Королевств",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "12:55",
+          "title": "Східні солодощі",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "13:05",
+          "title": "Карли - искательница приключений. Древнее Королевств",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "13:15",
+          "title": "Карли - искательница приключений. Древнее Королевств",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "13:30",
+          "title": "Карли - искательница приключений. Древнее Королевств",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "13:40",
+          "title": "Мереживо дол",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "13:45",
+          "title": "Карли - искательница приключений. Древнее Королевств",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "13:53",
+          "title": "Поїздка до Америки 2",
+          "year": null,
+          "genre": "Комедія",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "13:55",
+          "title": "Карли - искательница приключений. Древнее Королевств",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "14:05",
+          "title": "Альбатрос",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "14:10",
+          "title": "Мара и Бог огня",
+          "year": null,
+          "genre": "Movie, General",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "14:30",
+          "title": "Мереживо дол",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "15:15",
+          "title": "Пошт",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "15:20",
+          "title": "Вбивство в Гамбургу",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "15:38",
+          "title": "Голівудські копи",
+          "year": null,
+          "genre": "Комедія;Бойовик;Кримінал",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "15:40",
+          "title": "Реальная белка",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "15:55",
+          "title": "Красуня та чудовисько",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "16:00",
+          "title": "Пошт",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "16:20",
+          "title": "Доктор Щастя",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "16:45",
+          "title": "Пошт",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "17:05",
+          "title": "Пчелка Майя: Медовый движ",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "17:34",
+          "title": "Рожева пантера",
+          "year": null,
+          "genre": "Комедія;Пригоди;Кримінал;Детектив",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "17:35",
+          "title": "Пошт",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "17:45",
+          "title": "Знижка",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "18:05",
+          "title": "Східні солодощі",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "18:20",
+          "title": "Гречанк",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "18:30",
+          "title": "Истинный рыцарь",
+          "year": null,
+          "genre": "Movie, General",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "19:00",
+          "title": "Зниклі",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "19:03",
+          "title": "Дюна (1984)",
+          "year": null,
+          "genre": "Пригоди;Бойовик;Фантастика",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "19:10",
+          "title": "Гречанк",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "19:30",
+          "title": "Ганнес",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "19:55",
+          "title": "Гречанк",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "19:55",
+          "title": "Ниль",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "20:10",
+          "title": "Ниль",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "20:20",
+          "title": "Ниль",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "20:35",
+          "title": "Ниль",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "20:40",
+          "title": "Гречанк",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "20:45",
+          "title": "Ниль",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "21:00",
+          "title": "Все псы попадают в рай",
+          "year": null,
+          "genre": "Children's, Youth Program",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "21:00",
+          "title": "Ти і я",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "21:20",
+          "title": "Зачарована Елла",
+          "year": null,
+          "genre": "Пригоди;Сімейний",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "21:25",
+          "title": "Мереживо дол",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Star Cinema",
+          "start_time": "21:25",
+          "title": "Східні солодощі",
+          "year": null,
+          "genre": "Сериалы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "22:10",
+          "title": "Мереживо дол",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KinoKazka",
+          "start_time": "22:25",
+          "title": "Призрак в законе",
+          "year": null,
+          "genre": "Movie, General",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "22:35",
+          "title": "Лоліта",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "22:52",
+          "title": "Мій шпигун",
+          "year": null,
+          "genre": "Комедія;Бойовик;Сімейний",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "22:55",
+          "title": "Мереживо дол",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "23:00",
+          "title": "Комісар Рекс",
+          "year": 1994,
+          "genre": "Сериалы, детектив,боевик,криминал",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "23:40",
+          "title": "Мереживо дол",
+          "year": 2016,
+          "genre": "Сериалы, мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "programmes": [
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "00:28",
+          "title": "Сімейка Адамсів",
+          "year": null,
+          "genre": "Комедія;Жахи;Сімейний",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "00:30",
+          "title": "Страх у твоєму дом",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "00:45",
+          "title": "Вади",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "01:00",
+          "title": "Гра долі",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "01:15",
+          "title": "Страх у твоєму дом",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "01:45",
+          "title": "Україна вражає",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - FILMUADRAMA",
+          "start_time": "02:00",
+          "title": "Страх у твоєму дом",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "02:08",
+          "title": "Ніколи не кажи «ніколи»",
+          "year": null,
+          "genre": "Пригоди;Бойовик;Трилер",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "02:15",
+          "title": "Неприборкані шоломи",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - Enter- film",
+          "start_time": "03:00",
+          "title": "Єдині новини",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "03:35",
+          "title": "Гіпнотизер",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "04:22",
+          "title": "2+1",
+          "year": null,
+          "genre": "Комедія;Драма",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - TV1000 World Kino",
+          "start_time": "05:45",
+          "title": "Ось хто я",
+          "year": null,
+          "genre": "Фильмы",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "06:14",
+          "title": "Хранитель часу",
+          "year": 1930,
+          "genre": "Пригоди;Сімейний;Драма;Детектив",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "08:15",
+          "title": "Супергеройське кіно",
+          "year": null,
+          "genre": "Комедія;Бойовик;Фантастика",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "09:38",
+          "title": "Еон Флакс",
+          "year": null,
+          "genre": "Пригоди;Фантастика;Бойовик;Трилер",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "11:07",
+          "title": "Готель для собак",
+          "year": null,
+          "genre": "Комедія;Сімейний",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "12:47",
+          "title": "Трансформери: Час вимирання",
+          "year": null,
+          "genre": "За коміксами;Пригоди;Фантастика;Бойовик",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "15:25",
+          "title": "Автомонстри",
+          "year": null,
+          "genre": "Комедія;Фентезі;Пригоди;Бойовик",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "17:05",
+          "title": "Земля тролів 2: У пошуках Золотого Замку",
+          "year": null,
+          "genre": "Фентезі;Пригоди;Сімейний",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "18:43",
+          "title": "Місія неможлива 2",
+          "year": null,
+          "genre": "Пригоди;Бойовик;Трилер",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "20:41",
+          "title": "Вімблдон",
+          "year": null,
+          "genre": "Комедія;Мелодрама;Спорт",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "22:15",
+          "title": "Пригоди Яо",
+          "year": null,
+          "genre": "Комедія;Драма",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "23:54",
+          "title": "Як важливо бути серйозним",
+          "year": null,
+          "genre": "Мелодрама;Комедія;Драма",
+          "imdb_rating": null,
+          "imdb_id": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "programmes": [
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "01:23",
+          "title": "Двійник",
+          "year": null,
+          "genre": "Пригоди;Бойовик;Фантастика;Трилер",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "03:16",
+          "title": "Трансформери: Останній лицар",
+          "year": null,
+          "genre": "За коміксами;Пригоди;Фантастика;Бойовик",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "05:44",
+          "title": "Поїздка до Америки 2",
+          "year": null,
+          "genre": "Комедія",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "07:29",
+          "title": "Голівудські копи",
+          "year": null,
+          "genre": "Комедія;Бойовик;Кримінал",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "09:25",
+          "title": "Рожева пантера",
+          "year": null,
+          "genre": "Комедія;Пригоди;Кримінал;Детектив",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "10:54",
+          "title": "Дюна (1984)",
+          "year": null,
+          "genre": "Пригоди;Бойовик;Фантастика",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "13:10",
+          "title": "Зачарована Елла",
+          "year": null,
+          "genre": "Пригоди;Сімейний",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "14:42",
+          "title": "Мій шпигун",
+          "year": null,
+          "genre": "Комедія;Бойовик;Сімейний",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "16:19",
+          "title": "Родина за хвилину",
+          "year": null,
+          "genre": "Комедія;Драма",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "18:12",
+          "title": "Арахісовий сокіл",
+          "year": null,
+          "genre": "Комедія;Пригоди;Драма",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "19:45",
+          "title": "Давайте потанцюємо",
+          "year": null,
+          "genre": "Комедія;Музичний;Драма",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "21:26",
+          "title": "Голий пістолет (1988)",
+          "year": null,
+          "genre": "Комедія;Кримінал",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "22:48",
+          "title": "Аероплан",
+          "year": null,
+          "genre": "Комедія",
+          "imdb_rating": null,
+          "imdb_id": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "programmes": [
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "00:12",
+          "title": "Готель для собак",
+          "year": null,
+          "genre": "Комедія;Сімейний",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "01:51",
+          "title": "Трансформери: Час вимирання",
+          "year": null,
+          "genre": "За коміксами;Пригоди;Бойовик;Фантастика",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "04:30",
+          "title": "Автомонстри",
+          "year": null,
+          "genre": "Комедія;Фентезі;Пригоди;Бойовик",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "06:10",
+          "title": "Земля тролів 2: У пошуках Золотого Замку",
+          "year": null,
+          "genre": "Фентезі;Пригоди;Сімейний",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "07:47",
+          "title": "Місія неможлива 2",
+          "year": null,
+          "genre": "Пригоди;Бойовик;Трилер",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "09:46",
+          "title": "Вімблдон",
+          "year": null,
+          "genre": "Комедія;Мелодрама;Спорт",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "11:20",
+          "title": "Пригоди Яо",
+          "year": null,
+          "genre": "Комедія;Драма",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "12:58",
+          "title": "Як важливо бути серйозним",
+          "year": null,
+          "genre": "Комедія;Мелодрама;Драма",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "14:28",
+          "title": "Сімейка Адамсів",
+          "year": null,
+          "genre": "Комедія;Жахи;Сімейний",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "16:08",
+          "title": "Ніколи не кажи «ніколи»",
+          "year": null,
+          "genre": "Пригоди;Бойовик;Трилер",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "18:22",
+          "title": "2+1",
+          "year": null,
+          "genre": "Комедія;Драма",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "20:14",
+          "title": "Хранитель часу",
+          "year": 1930,
+          "genre": "Пригоди;Сімейний;Драма;Детектив",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "22:15",
+          "title": "Супергеройське кіно",
+          "year": null,
+          "genre": "Комедія;Бойовик;Фантастика",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "23:38",
+          "title": "Еон Флакс",
+          "year": null,
+          "genre": "Пригоди;Фантастика;Бойовик;Трилер",
+          "imdb_rating": null,
+          "imdb_id": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "programmes": [
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "01:07",
+          "title": "Абсолютно нові пригоди Аладдіна",
+          "year": null,
+          "genre": "Комедія;Фентезі",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "02:40",
+          "title": "007: Спектр",
+          "year": null,
+          "genre": "Пригоди;Бойовик;Трилер",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "05:08",
+          "title": "Норбіт",
+          "year": null,
+          "genre": "Комедія;Мелодрама",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "06:46",
+          "title": "Привид у броні",
+          "year": null,
+          "genre": "Фантастика;Бойовик;Кримінал;Трилер;Детектив",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "08:29",
+          "title": "Знайомство з Факерами",
+          "year": null,
+          "genre": "Комедія",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "10:19",
+          "title": "Стажери",
+          "year": null,
+          "genre": "Комедія",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "12:14",
+          "title": "Зразковий самець",
+          "year": null,
+          "genre": "Комедія",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "13:39",
+          "title": "Хто тобі доктор?",
+          "year": null,
+          "genre": "Комедія",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "15:05",
+          "title": "У пошуках галактики",
+          "year": null,
+          "genre": "Комедія;Пригоди;Фантастика",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "16:47",
+          "title": "Макс",
+          "year": null,
+          "genre": "Пригоди;Сімейний;Драма;Воєнний",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "18:33",
+          "title": "Лемоні Снікет: Тридцять три нещастя",
+          "year": null,
+          "genre": "Екранізації;Комедія;Пригоди;Сімейний",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "20:17",
+          "title": "Голий пістолет 2½: Запах страху",
+          "year": null,
+          "genre": "Комедія;Кримінал",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "21:38",
+          "title": "Шпигун, який мене кохав",
+          "year": null,
+          "genre": "Пригоди;Бойовик",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "UA - KS TV - Good cinema",
+          "start_time": "23:44",
+          "title": "Удача Лоґана",
+          "year": null,
+          "genre": "Комедія;Бойовик;Кримінал;Драма",
+          "imdb_rating": null,
+          "imdb_id": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "programmes": []
+    }
+  ]
+}
