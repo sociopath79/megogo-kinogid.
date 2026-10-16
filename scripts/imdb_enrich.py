@@ -29,9 +29,14 @@ def lookup(title, year):
     if len(exact) != 1:
         return None
     imdb_id = exact[0]["id"]
-    meta = get_json("https://v3-cinemeta.strem.io/meta/movie/" + imdb_id + ".json").get("meta") or {}
-    if not meta:
-        meta = get_json("https://v3-cinemeta.strem.io/meta/series/" + imdb_id + ".json").get("meta") or {}
+    meta = {}
+    for kind in ("movie", "series"):
+        try:
+            meta = get_json("https://v3-cinemeta.strem.io/meta/" + kind + "/" + imdb_id + ".json").get("meta") or {}
+        except Exception:
+            continue
+        if meta:
+            break
     rating = meta.get("imdbRating")
     try:
         rating = float(rating)
