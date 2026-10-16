@@ -1,5 +1,11 @@
 name: Update EPG guide
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/build_guide.py'
+      - 'config/megogo_channels.json'
+      - '.github/workflows/update.yml'
   schedule:
     - cron: "20 3 * * *"
   workflow_dispatch:
