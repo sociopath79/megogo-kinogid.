@@ -26,7 +26,18 @@ SECONDARY_IDS = {
 def fetch(url, timeout=90):
     req = urllib.request.Request(url, headers={"User-Agent": "MegogoKinoGuide/1.0 (+public EPG viewer)"})
     with urllib.request.urlopen(req, timeout=timeout) as r:
-        raw = r.read(55_000_000)
+        # Read the complete response: a fixed byte limit truncated large gzip EPGs.
+        chunks = []
+        total = 0
+        while True:
+            chunk = r.read(1024 * 1024)
+            if not chunk:
+                break
+            total += len(chunk)
+            if total > 250_000_000:
+                raise ValueError("EPG download exceeds 250 MB safety limit")
+            chunks.append(chunk)
+        raw = b"".join(chunks)
     return gzip.decompress(raw) if raw[:2] == b"\x1f\x8b" else raw
 
 def parse_time(value):
