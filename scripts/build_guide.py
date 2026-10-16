@@ -65,6 +65,9 @@ def year_of(text):
     m = re.search(r"(?<!\d)(19\d{2}|20[0-3]\d)(?!\d)", text)
     return int(m.group(1)) if m else None
 
+def is_placeholder(title):
+    return (title or "").strip().casefold() in {"no data", "no information", "no programme information", "no program information", "немає даних", "нет данных", "без назви", "n/a", "tba", "-"}
+
 def main():
     today = dt.datetime.now(KYIV).date()
     allowed = {(today + dt.timedelta(days=i)).isoformat() for i in range(8)}
@@ -99,7 +102,7 @@ def main():
         if not start or start.date().isoformat() not in allowed:
             continue
         title = child_text(p, "title")
-        if not title:
+        if not title or is_placeholder(title):
             continue
         desc = child_text(p, "desc")
         cats = [n.text.strip() for n in p.findall("category") if n.text]
@@ -122,7 +125,7 @@ def main():
             if not start or start.date().isoformat() not in allowed:
                 continue
             title = child_text(p, "title")
-            if not title:
+            if not title or is_placeholder(title):
                 continue
             desc = child_text(p, "desc")
             cats = [n.text.strip() for n in p.findall("category") if n.text]
