@@ -58,7 +58,7 @@ def main():
     channels = {}
     for ch in root.findall("channel"):
         name = child_text(ch, "display-name")
-        if name and movie_channel(name):
+        if name:
             channels[ch.get("id")] = name
     by_date = {day: [] for day in sorted(allowed)}
     for p in root.findall("programme"):
@@ -83,12 +83,12 @@ def main():
     for rows in by_date.values():
         rows.sort(key=lambda p: (p["start_time"], p["channel"]))
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    output = {
+    output = {\n        "coverage_note": "Усі канали джерела EPG; належність до MEGOGO Максимальна не підтверджена.",
         "updated": dt.datetime.now(KYIV).isoformat(timespec="minutes"),
         "source": EPG_URL,
         "days": [{"date": day, "programmes": rows} for day, rows in by_date.items()],
     }
     OUT.write_text(json.dumps(output, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"Saved {sum(len(x) for x in by_date.values())} programmes across {len(channels)} matching channels")
+    print(f"Saved {sum(len(x) for x in by_date.values())} programmes across {len(channels)} EPG channels")
 if __name__ == "__main__":
     main()
