@@ -145,7 +145,7 @@ def supplement_teleprograma(by_date):
 
 def main():
     today = dt.datetime.now(KYIV).date()
-    allowed = {(today + dt.timedelta(days=i)).isoformat() for i in range(8)}
+    allowed = {(today + dt.timedelta(days=i)).isoformat() for i in range(-7, 8)}
     config = json.loads(CONFIG.read_text(encoding="utf-8"))
     groups = config["groups"]
     aliases = config["aliases"]
@@ -169,6 +169,17 @@ def main():
         else:
             missing.append(name)
     by_date = {day: [] for day in sorted(allowed)}
+    # Preserve past listings when upstream sources stop serving older dates.
+    if OUT.exists():
+        try:
+            previous = json.loads(OUT.read_text(encoding="utf-8"))
+            for old_day in previous.get("days", []):
+                date = old_day.get("date")
+                if date in by_date and date < today.isoformat():
+                    by_date[date].extend(old_day.get("programmes", []))
+        except (OSError, ValueError, TypeError) as exc:
+            print("Historical EPG cache unavailable:", exc)
+
     for p in root.findall("programme"):
         ch = channel_ids.get(p.get("channel"))
         if not ch:
@@ -192,7 +203,9 @@ def main():
     try:
         secondary = ET.fromstring(fetch(SECONDARY_EPG, timeout=45))
         id_to_name = {v: k for k, v in SECONDARY_IDS.items()}
-        # Add only programmes not already provided by the primary source.\n        primary_slots = {(p["channel"], day, p["start_time"]) for day, rows in by_date.items() for p in rows}\n        for p in secondary.findall("programme"):
+        # Add only programmes not already provided by the primary source.
+        primary_slots = {(p["channel"], day, p["start_time"]) for day, rows in by_date.items() for p in rows}
+        for p in secondary.findall("programme"):
             ch = id_to_name.get(p.get("channel"))
             if not ch:
                 continue
@@ -218,12 +231,14 @@ def main():
         print("Secondary EPG checked:", SECONDARY_EPG)
     except Exception as exc:
         print("Secondary EPG unavailable:", type(exc).__name__, str(exc)[:180])
-    if os.environ.get('ENABLE_TELEPROGRAMA', '0') == '1':\n        supplement_teleprograma(by_date)\n    # Availability means actual programme rows, not merely a matching channel name.
+    if os.environ.get('ENABLE_TELEPROGRAMA', '0') == '1':
+        supplement_teleprograma(by_date)
+    # Availability means actual programme rows, not merely a matching channel name.
     covered = {p["channel"] for rows in by_date.values() for p in rows}
     available = [name for name in names if name in covered]
     missing = [name for name in names if name not in covered]
     for rows in by_date.values():
-        unique = {(p["channel"], p["start_time"], p["title"]): p for p in rows}
+        unique = {(p["channel"], p["start_time"]): p for p in rows[::-1]}
         rows[:] = sorted(unique.values(), key=lambda p: (p["start_time"], p["channel"]))
     enrich(by_date)
     OUT.parent.mkdir(parents=True, exist_ok=True)
