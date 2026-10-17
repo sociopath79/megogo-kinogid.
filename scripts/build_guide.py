@@ -4,6 +4,7 @@ Never invent listings or IMDb ratings. Optional verified IMDb enrichment via Cin
 """
 import datetime as dt
 import gzip
+from html.parser import HTMLParser
 import json
 import os
 import re
@@ -68,6 +69,79 @@ def year_of(text):
 
 def is_placeholder(title):
     return (title or "").strip().casefold() in {"no data", "no information", "no programme information", "no program information", "немає даних", "нет данных", "без назви", "n/a", "tba", "-"}
+
+
+# Optional third source: HTML schedule, never overwrite existing XMLTV slots.
+TELE_URL = "https://teleprograma.com.ua/cat/movies/date/{day}/period/allday"
+TELE_NAMES = {
+    "FILMUADRAMA": "FILMUADRAMA HD",
+    "Star Cinema": "Star Cinema HD",
+    "Cine+": "Cine+ HD",
+    "Cine+ Hit": "Cine+ Hit HD",
+    "Cine+ Legend": "Cine+ Legend",
+    "Enter-фільм": "Enter-фільм HD",
+    "BOLT": "BOLT HD",
+    "FilmBox": "FilmBox",
+    "AMC": "AMC",
+    "Viasat Kino": "Viasat Kino HD",
+    "Viasat Kino Action": "Viasat Kino Action HD",
+    "Viasat Kino Comedy": "Viasat Kino Comedy HD",
+    "Viasat Kino World": "Viasat Kino World",
+    "Viasat Serial": "Viasat Serial HD",
+    "Твоє Кіно HIT": "Твоє кіно Хіт HD",
+    "Твоє Кіно Action": "Твоє кіно Action HD",
+    "Твоє Кіно Relax": "Твоє кіно Relax HD",
+}
+class ScheduleText(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.parts = []
+        self.hidden = 0
+    def handle_starttag(self, tag, attrs):
+        if tag in ("script", "style"):
+            self.hidden += 1
+        if tag in ("a", "div", "li", "p", "tr", "td", "h2", "h3", "br"):
+            self.parts.append("\\n")
+    def handle_endtag(self, tag):
+        if tag in ("script", "style") and self.hidden:
+            self.hidden -= 1
+        if tag in ("a", "div", "li", "p", "tr", "td", "h2", "h3"):
+            self.parts.append("\\n")
+    def handle_data(self, value):
+        if not self.hidden and value.strip():
+            self.parts.append(value.strip())
+
+def supplement_teleprograma(by_date):
+    # Limit requests to the date range actually shown by the provider.
+    count = 0
+    for day in sorted(by_date):
+        try:
+            page = fetch(TELE_URL.format(day=day), timeout=20).decode("utf-8", errors="replace")
+            parser = ScheduleText()
+            parser.feed(page)
+            tokens = [t.strip() for t in "".join(parser.parts).splitlines() if t.strip()]
+            channel = None
+            current_time = None
+            occupied = {(p["channel"], p["start_time"]) for p in by_date[day]}
+            for token in tokens:
+                if token in TELE_NAMES:
+                    channel = TELE_NAMES[token]
+                    current_time = None
+                    continue
+                if re.fullmatch(r"[0-2]\\d:[0-5]\\d", token):
+                    current_time = token if channel else None
+                    continue
+                if channel and current_time:
+                    if channel in {n for g in json.loads(CONFIG.read_text(encoding="utf-8"))["groups"].values() for n in g} and (channel, current_time) not in occupied and not is_placeholder(token):
+                        by_date[day].append({"channel": channel, "start_time": current_time,
+                            "title": token, "year": None, "genre": None,
+                            "imdb_rating": None, "imdb_id": None})
+                        occupied.add((channel, current_time))
+                        count += 1
+                    current_time = None
+        except Exception as exc:
+            print("Teleprograma skipped", day, type(exc).__name__, str(exc)[:120])
+    print("Teleprograma supplemental rows:", count)
 
 def main():
     today = dt.datetime.now(KYIV).date()
@@ -144,7 +218,7 @@ def main():
         print("Secondary EPG checked:", SECONDARY_EPG)
     except Exception as exc:
         print("Secondary EPG unavailable:", type(exc).__name__, str(exc)[:180])
-    # Availability means actual programme rows, not merely a matching channel name.
+    if os.environ.get('ENABLE_TELEPROGRAMA', '0') == '1':\n        supplement_teleprograma(by_date)\n    # Availability means actual programme rows, not merely a matching channel name.
     covered = {p["channel"] for rows in by_date.values() for p in rows}
     available = [name for name in names if name in covered]
     missing = [name for name in names if name not in covered]
