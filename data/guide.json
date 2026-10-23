@@ -1,6 +1,6 @@
 {
   "coverage_note": "IMDb додається лише за однозначним збігом назви та року; непідтверджені рейтинги не показуються.",
-  "updated": "2026-10-22T06:47+03:00",
+  "updated": "2026-10-23T06:46+03:00",
   "source": "https://iptv-epg.org/files/epg-ua.xml",
   "additional_source": "https://iptvx.one/EPG",
   "channel_groups": {
@@ -104,758 +104,6 @@
     "PROKINO"
   ],
   "days": [
-    {
-      "date": "2026-10-15",
-      "programmes": [
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "00:20",
-          "title": "х/ф Сборище любителей",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "00:25",
-          "title": "х/ф Девушка из календаря",
-          "year": 1993,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "00:35",
-          "title": "т/с Прибульці з минулого 2. 1 c",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "01:20",
-          "title": "х/ф Клаустрофобы",
-          "year": 2019,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "01:20",
-          "title": "х/ф Отличница лёгкого поведения",
-          "year": 2010,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "01:20",
-          "title": "т/с Жінки-вбивці, 2 с. Іскра",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "01:55",
-          "title": "х/ф 8 миля",
-          "year": 1995,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "01:55",
-          "title": "х/ф Бронкская история",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "02:05",
-          "title": "х/ф Орка",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "02:55",
-          "title": "х/ф Последнее дело Ламарки",
-          "year": 2002,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "03:10",
-          "title": "х/ф Плохой Санта 2",
-          "year": 2016,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "03:40",
-          "title": "х/ф Дориан Грей",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "03:50",
-          "title": "х/ф Опасный город",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "03:50",
-          "title": "т/с Гармоніка, 5 с. У тебе завжди є вибір",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "04:35",
-          "title": "т/с Жінки-вбивці, 2 с. Іскра",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "04:55",
-          "title": "х/ф Интуиция",
-          "year": 2001,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "05:10",
-          "title": "х/ф Проклятая",
-          "year": 2009,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "05:20",
-          "title": "д/с Прикордонні сили США: Мости ┊ 4 Боротьба з кокаїном",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "05:40",
-          "title": "х/ф В погоне за счастьем",
-          "year": 2006,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "05:50",
-          "title": "х/ф Лучшее лето",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "06:05",
-          "title": "д/с Прикордонні сили США: Мости ┊ 5 Приманка",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "06:35",
-          "title": "х/ф Животное",
-          "year": 2001,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "06:55",
-          "title": "х/ф Вышка",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "07:15",
-          "title": "м/ф Побег из курятника",
-          "year": 2000,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "07:30",
-          "title": "д/с Прикордонні сили США: Мости ┊ 6 Арешт метамфетаміну на п'ять мільйонів доларів",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "07:35",
-          "title": "х/ф Планета Ка-Пэкс",
-          "year": 2001,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "08:10",
-          "title": "х/ф Каспер",
-          "year": 1995,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "08:15",
-          "title": "т/с Пляжний готель 4 ┊ 6",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "08:35",
-          "title": "х/ф Вера Дрейк",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "08:40",
-          "title": "х/ф Запретное царство",
-          "year": 2008,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "09:00",
-          "title": "т/с Пляжний готель 4 ┊ 7",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "09:30",
-          "title": "х/ф Тристан и Изольда",
-          "year": 2006,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "09:50",
-          "title": "т/с Пляжний готель 4 ┊ 8",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "10:00",
-          "title": "х/ф Оторва",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "10:20",
-          "title": "х/ф Проклятая",
-          "year": 2009,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "10:35",
-          "title": "х/ф Гений математики",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "10:35",
-          "title": "т/с Пляжний готель ┊ 1",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "11:20",
-          "title": "д/с Прикордонні сили США: Мости ┊ 6 Арешт метамфетаміну на п'ять мільйонів доларів",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "11:35",
-          "title": "х/ф Братство танца",
-          "year": 2007,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "11:50",
-          "title": "х/ф Люди в чёрном: Интернэшнл",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "12:05",
-          "title": "х/ф Сахара",
-          "year": 1996,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "12:05",
-          "title": "т/с Пляжний готель 4 ┊ 6",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "12:30",
-          "title": "х/ф Большой злой волк",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "12:50",
-          "title": "т/с Пляжний готель 4 ┊ 7",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "13:25",
-          "title": "х/ф В погоне за счастьем",
-          "year": 2006,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "13:35",
-          "title": "т/с Пляжний готель 4 ┊ 8",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "14:00",
-          "title": "х/ф Сержант Билко",
-          "year": 1996,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "14:05",
-          "title": "х/ф Незваные",
-          "year": 2003,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "14:15",
-          "title": "х/ф Яркая звезда",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "14:20",
-          "title": "т/с Пляжний готель ┊ 1",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "15:05",
-          "title": "д/с Прикордонні сили США: Мости ┊ 6 Арешт метамфетаміну на п'ять мільйонів доларів",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "15:20",
-          "title": "х/ф Защитник",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "15:30",
-          "title": "х/ф Вышка",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "15:50",
-          "title": "х/ф Обратно на Землю",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "15:50",
-          "title": "т/с Пляжний готель 4 ┊ 6",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "16:10",
-          "title": "х/ф Скажите сыр",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "16:40",
-          "title": "т/с Пляжний готель 4 ┊ 7",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "17:15",
-          "title": "х/ф Останавливающие время",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "17:20",
-          "title": "х/ф Белый Олеандр",
-          "year": 2002,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "17:25",
-          "title": "т/с Пляжний готель 4 ┊ 8",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "17:35",
-          "title": "м/ф Angry Birds в кино",
-          "year": 2016,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "17:45",
-          "title": "х/ф Ожидание",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "18:10",
-          "title": "т/с Пляжний готель ┊ 1",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "18:50",
-          "title": "х/ф Ангелы Чарли: Только вперёд",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "18:55",
-          "title": "д/с Прикордонні сили США: Мости ┊ 6 Арешт метамфетаміну на п'ять мільйонів доларів",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "19:05",
-          "title": "х/ф В лучах славы",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "19:25",
-          "title": "х/ф Аллилуйя",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "19:30",
-          "title": "м/ф Восемь безумных ночей",
-          "year": 2002,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "19:40",
-          "title": "т/с Пляжний готель ┊ 2",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "20:25",
-          "title": "т/с Пляжний готель ┊ 3",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "20:30",
-          "title": "х/ф Уиджи: Доска Дьявола",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "21:00",
-          "title": "х/ф Притворись моей женой",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "21:00",
-          "title": "х/ф 8 миля",
-          "year": 1995,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "21:00",
-          "title": "х/ф Боже, помоги девушке",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "21:10",
-          "title": "т/с Пляжний готель ┊ 4",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "21:55",
-          "title": "т/с Пляжний готель ┊ 5",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "22:00",
-          "title": "х/ф Обитель зла 4: Жизнь после смерти",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "22:40",
-          "title": "т/с Фенріс ┊ 2 Хатина",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "22:45",
-          "title": "х/ф Хлоя",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "22:50",
-          "title": "х/ф Неукротимые шлемы",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "23:25",
-          "title": "х/ф Смерть на похоронах",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "23:30",
-          "title": "т/с Залишенець ┊ 4",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "23:35",
-          "title": "х/ф Убить Билла 2",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        }
-      ]
-    },
     {
       "date": "2026-10-16",
       "programmes": [
@@ -19145,9 +18393,9 @@
         {
           "channel": "Enter-фільм HD",
           "start_time": "23:00",
-          "title": "Комісар Рекс",
-          "year": 1994,
-          "genre": "Сериалы, детектив,боевик,криминал",
+          "title": "Енеїд",
+          "year": null,
+          "genre": "Другое",
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -19294,7 +18542,7 @@
         {
           "channel": "Enter-фільм HD",
           "start_time": "01:00",
-          "title": "Гра долі",
+          "title": "Великі українці",
           "year": null,
           "genre": "Другое",
           "imdb_rating": null,
@@ -19346,6 +18594,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Enter-фільм HD",
+          "start_time": "01:30",
+          "title": "Україна вражає",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Epic Drama HD",
           "start_time": "01:30",
           "title": "Розслідування Мердок",
@@ -19369,15 +18626,6 @@
           "title": "Ніконов і К",
           "year": 2015,
           "genre": "Сериалы, детектив,драма,криминал",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Enter-фільм HD",
-          "start_time": "02:00",
-          "title": "Україна вражає",
-          "year": null,
-          "genre": "Другое",
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -21499,9 +20747,9 @@
         {
           "channel": "Enter-фільм HD",
           "start_time": "23:00",
-          "title": "Комісар Рекс",
-          "year": 1994,
-          "genre": "Сериалы, детектив,боевик,криминал",
+          "title": "Енеїд",
+          "year": null,
+          "genre": "Другое",
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -21666,7 +20914,7 @@
         {
           "channel": "Enter-фільм HD",
           "start_time": "01:00",
-          "title": "Гра долі",
+          "title": "Великі українці",
           "year": null,
           "genre": "Другое",
           "imdb_rating": null,
@@ -21727,20 +20975,20 @@
           "imdb_id": null
         },
         {
+          "channel": "Enter-фільм HD",
+          "start_time": "01:30",
+          "title": "Україна вражає",
+          "year": null,
+          "genre": "Другое",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Cine+ Hit HD",
           "start_time": "01:35",
           "title": "Уроки тітоньки Сови",
           "year": 2002,
           "genre": "Детям, приключения",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Enter-фільм HD",
-          "start_time": "01:45",
-          "title": "Україна вражає",
-          "year": null,
-          "genre": "Другое",
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -21999,6 +21247,10 @@
     },
     {
       "date": "2026-10-29",
+      "programmes": []
+    },
+    {
+      "date": "2026-10-30",
       "programmes": []
     }
   ]
