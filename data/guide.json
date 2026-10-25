@@ -1,6 +1,6 @@
 {
   "coverage_note": "IMDb додається лише за однозначним збігом назви та року; непідтверджені рейтинги не показуються.",
-  "updated": "2026-10-24T06:45+03:00",
+  "updated": "2026-10-25T05:46+02:00",
   "source": "https://iptv-epg.org/files/epg-ua.xml",
   "additional_source": "https://iptvx.one/EPG",
   "channel_groups": {
@@ -104,2045 +104,6 @@
     "PROKINO"
   ],
   "days": [
-    {
-      "date": "2026-10-17",
-      "programmes": [
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "00:10",
-          "title": "т/с Вероніка 2 ┊ 3 Ганс",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "00:35",
-          "title": "х/ф Мексиканская стена",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "00:50",
-          "title": "т/с Ребус ┊ 4",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "00:55",
-          "title": "х/ф Образцовый самец 2",
-          "year": 2016,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "01:00",
-          "title": "х/ф Маньчжурский кандидат",
-          "year": 2004,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "01:25",
-          "title": "х/ф Стертая личность",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "01:40",
-          "title": "т/с Коробка ┊ 6 Грішник",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "02:10",
-          "title": "т/с Залишенець ┊ 4",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "02:15",
-          "title": "х/ф Гнев во спасение",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "02:45",
-          "title": "х/ф Городок Семетри",
-          "year": 1973,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "02:50",
-          "title": "т/с Вероніка 2 ┊ 3 Ганс",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Enter-фільм HD",
-          "start_time": "03:00",
-          "title": "Єдині новини",
-          "year": null,
-          "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "03:10",
-          "title": "х/ф Плохой лейтенант",
-          "year": 1992,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "03:15",
-          "title": "х/ф Кирпич",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Hit HD",
-          "start_time": "03:30",
-          "title": "Уроки тітоньки Сови",
-          "year": 2002,
-          "genre": "Детям, приключения",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "03:30",
-          "title": "т/с Ребус ┊ 4",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "03:35",
-          "title": "Консультан",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Legend",
-          "start_time": "03:35",
-          "title": "Нічне промо",
-          "year": null,
-          "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Epic Drama HD",
-          "start_time": "03:35",
-          "title": "Інспектор Джордж Джентл",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "03:55",
-          "title": "х/ф Айрис",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Cinema HD",
-          "start_time": "04:05",
-          "title": "Доктор Щастя",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "04:15",
-          "title": "д/с Прикордонні сили США: Мости 2 ┊ 4",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "04:20",
-          "title": "Консультан",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "04:20",
-          "title": "х/ф Персонаж",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Hit HD",
-          "start_time": "04:30",
-          "title": "Нічне промо",
-          "year": null,
-          "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "05:00",
-          "title": "д/с Прикордонні сили США: Мости 2 ┊ 5",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "05:05",
-          "title": "х/ф Белый Олеандр",
-          "year": 2002,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "05:10",
-          "title": "Консультан",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Enter-фільм HD",
-          "start_time": "05:30",
-          "title": "Україна вражає",
-          "year": null,
-          "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Epic Drama HD",
-          "start_time": "05:30",
-          "title": "Про всі створіння - великі й мал",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "05:35",
-          "title": "х/ф Запретное царство",
-          "year": 2008,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "05:45",
-          "title": "х/ф Лучшее лето",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "05:45",
-          "title": "д/с Прикордонні сили США: Мости 2 ┊ 6",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Cinema HD",
-          "start_time": "05:55",
-          "title": "Право на Надію",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "06:00",
-          "title": "Відважн",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "FILMUADRAMA HD",
-          "start_time": "06:00",
-          "title": "Пошт",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "06:20",
-          "title": "х/ф Интуиция",
-          "year": 2001,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Enter-фільм HD",
-          "start_time": "06:30",
-          "title": "Зіркові долі",
-          "year": null,
-          "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "06:35",
-          "title": "д/с Прикордонні сили США: Мости 2 ┊ 7",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "06:45",
-          "title": "Відважн",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Kids HD",
-          "start_time": "06:45",
-          "title": "Луїс і прибульці",
-          "year": null,
-          "genre": "Детям",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "FILMUADRAMA HD",
-          "start_time": "06:50",
-          "title": "Пошт",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "06:50",
-          "title": "х/ф Тристан и Изольда",
-          "year": 2006,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ HD",
-          "start_time": "06:55",
-          "title": "Cine+ Stories",
-          "year": null,
-          "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Hit HD",
-          "start_time": "07:00",
-          "title": "Hit Stories",
-          "year": null,
-          "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Legend",
-          "start_time": "07:00",
-          "title": "Legend Stories",
-          "year": null,
-          "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Enter-фільм HD",
-          "start_time": "07:00",
-          "title": "Комісар Рекс",
-          "year": 1994,
-          "genre": "Сериалы, детектив,боевик,криминал",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Epic Drama HD",
-          "start_time": "07:05",
-          "title": "Розслідування Мердок",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ HD",
-          "start_time": "07:10",
-          "title": "Максим Оса: золото Песиголовця",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "07:10",
-          "title": "х/ф Гений математики",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "07:15",
-          "title": "х/ф Вышка",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Legend",
-          "start_time": "07:20",
-          "title": "Інша жінк",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "07:20",
-          "title": "д/с Прикордонні сили США: Мости 2 ┊ 5",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Cinema HD",
-          "start_time": "07:30",
-          "title": "Східні солодощ",
-          "year": 2016,
-          "genre": "Сериалы, мелодрама",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "07:35",
-          "title": "Відважн",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "FILMUADRAMA HD",
-          "start_time": "07:35",
-          "title": "Пошт",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Epic Drama HD",
-          "start_time": "08:00",
-          "title": "Розслідування Мердок",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "08:00",
-          "title": "д/с Прикордонні сили США: Мости 2 ┊ 6",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "08:05",
-          "title": "х/ф Обратно на Землю",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "08:20",
-          "title": "Відважн",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Kids HD",
-          "start_time": "08:20",
-          "title": "Уроки тітоньки Сови",
-          "year": 2002,
-          "genre": "Детям, приключения",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "FILMUADRAMA HD",
-          "start_time": "08:20",
-          "title": "Пошт",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "08:50",
-          "title": "т/с Другий захід ┊ 1",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Epic Drama HD",
-          "start_time": "08:55",
-          "title": "Розслідування Мердок",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "08:55",
-          "title": "х/ф Осень в Нью-Йорке",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ HD",
-          "start_time": "09:00",
-          "title": "Cine+ Stories",
-          "year": null,
-          "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Hit HD",
-          "start_time": "09:00",
-          "title": "Hit Stories",
-          "year": null,
-          "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Kids HD",
-          "start_time": "09:00",
-          "title": "Кентервільський привид",
-          "year": null,
-          "genre": "Детям",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Legend",
-          "start_time": "09:00",
-          "title": "Інша жінк",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Enter-фільм HD",
-          "start_time": "09:00",
-          "title": "Корисні поради",
-          "year": null,
-          "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "09:00",
-          "title": "х/ф Голодные игры: Сойка-пересмешница. Часть II",
-          "year": 2015,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "09:00",
-          "title": "х/ф Большой злой волк",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "FILMUADRAMA HD",
-          "start_time": "09:05",
-          "title": "Гречанк",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "09:10",
-          "title": "Мисливці за реліквіям",
-          "year": 1999,
-          "genre": "Сериалы, приключения,боевик,фантазия",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "09:20",
-          "title": "т/с Пляжний готель 3 ┊ 6",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Enter-фільм HD",
-          "start_time": "09:30",
-          "title": "Садові поради",
-          "year": null,
-          "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ HD",
-          "start_time": "09:35",
-          "title": "Черкаси",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "09:40",
-          "title": "х/ф Паутина Шарлотты",
-          "year": 2006,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Epic Drama HD",
-          "start_time": "09:50",
-          "title": "Розслідування Мердок",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "FILMUADRAMA HD",
-          "start_time": "09:50",
-          "title": "Гречанк",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "09:55",
-          "title": "Мисливці за реліквіям",
-          "year": 1999,
-          "genre": "Сериалы, приключения,боевик,фантазия",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Enter-фільм HD",
-          "start_time": "10:00",
-          "title": "Гра долі",
-          "year": null,
-          "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "10:05",
-          "title": "т/с Пляжний готель 3 ┊ 7",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Kids HD",
-          "start_time": "10:35",
-          "title": "Уроки тітоньки Сови",
-          "year": 2002,
-          "genre": "Детям, приключения",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "FILMUADRAMA HD",
-          "start_time": "10:35",
-          "title": "Гречанк",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "10:35",
-          "title": "х/ф Спеши любить",
-          "year": 2002,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Legend",
-          "start_time": "10:40",
-          "title": "Legend Stories",
-          "year": null,
-          "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "10:45",
-          "title": "Мисливці за реліквіям",
-          "year": 1999,
-          "genre": "Сериалы, приключения,боевик,фантазия",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Epic Drama HD",
-          "start_time": "10:50",
-          "title": "Гардейкр",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Cinema HD",
-          "start_time": "10:50",
-          "title": "Східні солодощі",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "10:50",
-          "title": "х/ф Яркая звезда",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "10:50",
-          "title": "т/с Пляжний готель 3 ┊ 8",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Kids HD",
-          "start_time": "11:00",
-          "title": "Зоотрополіс",
-          "year": null,
-          "genre": "Детям",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Enter-фільм HD",
-          "start_time": "11:00",
-          "title": "Таємниці світу",
-          "year": null,
-          "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Legend",
-          "start_time": "11:05",
-          "title": "Чудо в краю забуття",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ HD",
-          "start_time": "11:15",
-          "title": "Шахраї",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "11:15",
-          "title": "х/ф Двадцать одно",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "FILMUADRAMA HD",
-          "start_time": "11:20",
-          "title": "Гречанк",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "11:30",
-          "title": "Мисливці за реліквіям",
-          "year": 1999,
-          "genre": "Сериалы, приключения,боевик,фантазия",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Enter-фільм HD",
-          "start_time": "11:30",
-          "title": "Шість соток",
-          "year": null,
-          "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "11:30",
-          "title": "м/ф Восемь безумных ночей",
-          "year": 2002,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "11:35",
-          "title": "т/с Пляжний готель 4 ┊ 1",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Hit HD",
-          "start_time": "11:40",
-          "title": "Петля часу",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Epic Drama HD",
-          "start_time": "11:50",
-          "title": "Гардейкр",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "FILMUADRAMA HD",
-          "start_time": "12:10",
-          "title": "Мереживо дол",
-          "year": 2016,
-          "genre": "Сериалы, мелодрама",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "12:15",
-          "title": "Мисливці за реліквіям",
-          "year": 1999,
-          "genre": "Сериалы, приключения,боевик,фантазия",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "12:15",
-          "title": "х/ф Защитник",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Enter-фільм HD",
-          "start_time": "12:20",
-          "title": "Мисливці за головам",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "12:20",
-          "title": "т/с Другий захід ┊ 1",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "12:45",
-          "title": "х/ф Скажите сыр",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Epic Drama HD",
-          "start_time": "12:50",
-          "title": "Гардейкр",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "12:50",
-          "title": "х/ф Эйс Вентура: Розыск домашних животных",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "12:50",
-          "title": "т/с Вулиця, де я живу ┊ 3 Один крок за раз",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Kids HD",
-          "start_time": "12:55",
-          "title": "Сіссі. Кохання з першого погляду",
-          "year": null,
-          "genre": "Детям",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Legend",
-          "start_time": "12:55",
-          "title": "Гавр",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "FILMUADRAMA HD",
-          "start_time": "12:55",
-          "title": "Мереживо дол",
-          "year": 2016,
-          "genre": "Сериалы, мелодрама",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ HD",
-          "start_time": "13:00",
-          "title": "Довбуш",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "13:10",
-          "title": "Гаряча точк",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "13:15",
-          "title": "х/ф Останавливающие время",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "13:25",
-          "title": "т/с Пляжний готель 4 ┊ 6",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "FILMUADRAMA HD",
-          "start_time": "13:40",
-          "title": "Мереживо дол",
-          "year": 2016,
-          "genre": "Сериалы, мелодрама",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Hit HD",
-          "start_time": "13:45",
-          "title": "Детектив Найт: Спокута",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Epic Drama HD",
-          "start_time": "13:50",
-          "title": "Міс Скарлет і Герцо",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "13:55",
-          "title": "Гаряча точк",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "14:10",
-          "title": "т/с Пляжний готель 4 ┊ 7",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Cinema HD",
-          "start_time": "14:15",
-          "title": "Східні солодощі",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "14:15",
-          "title": "х/ф Белый Олеандр",
-          "year": 2002,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "14:15",
-          "title": "х/ф Ожидание",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Enter-фільм HD",
-          "start_time": "14:20",
-          "title": "Мисливці за головам",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "FILMUADRAMA HD",
-          "start_time": "14:25",
-          "title": "Мереживо дол",
-          "year": 2016,
-          "genre": "Сериалы, мелодрама",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "14:30",
-          "title": "м/ф Angry Birds в кино",
-          "year": 2016,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Kids HD",
-          "start_time": "14:35",
-          "title": "Kids Stories",
-          "year": null,
-          "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Legend",
-          "start_time": "14:35",
-          "title": "Крута парочка",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "14:40",
-          "title": "Гаряча точк",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "14:45",
-          "title": "х/ф Пятое измерение",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Epic Drama HD",
-          "start_time": "14:55",
-          "title": "Міс Скарлет і Герцо",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Kids HD",
-          "start_time": "15:00",
-          "title": "Гамба",
-          "year": null,
-          "genre": "Детям",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "15:00",
-          "title": "т/с Пляжний готель 4 ┊ 8",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ HD",
-          "start_time": "15:10",
-          "title": "Нарешті світанок",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "FILMUADRAMA HD",
-          "start_time": "15:10",
-          "title": "Пошт",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "15:20",
-          "title": "Гаряча точк",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Enter-фільм HD",
-          "start_time": "15:20",
-          "title": "Вбивство в Гамбургу",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Hit HD",
-          "start_time": "15:30",
-          "title": "Лицарі справедливості",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "15:45",
-          "title": "т/с Пляжний готель ┊ 1",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "15:55",
-          "title": "х/ф Аллилуйя",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "16:00",
-          "title": "Гаряча точк",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Epic Drama HD",
-          "start_time": "16:00",
-          "title": "Міс Скарлет і Герцо",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "FILMUADRAMA HD",
-          "start_time": "16:00",
-          "title": "Пошт",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "16:00",
-          "title": "х/ф В лучах славы",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Legend",
-          "start_time": "16:20",
-          "title": "Поганий лейтенант",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "16:25",
-          "title": "х/ф Представь себе",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "16:30",
-          "title": "т/с Другий захід ┊ 1",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "16:35",
-          "title": "х/ф Сахара",
-          "year": 1996,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Kids HD",
-          "start_time": "16:40",
-          "title": "Kids Stories",
-          "year": null,
-          "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "16:45",
-          "title": "Маестр",
-          "year": 1986,
-          "genre": "Сериалы, драма,приключения",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "FILMUADRAMA HD",
-          "start_time": "16:45",
-          "title": "Пошт",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Kids HD",
-          "start_time": "17:00",
-          "title": "Воруши ластами 2: Втеча з раю",
-          "year": null,
-          "genre": "Детям",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "17:00",
-          "title": "т/с Вулиця, де я живу ┊ 3 Один крок за раз",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Epic Drama HD",
-          "start_time": "17:05",
-          "title": "Міс Скарлет і Герцо",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ HD",
-          "start_time": "17:15",
-          "title": "Дуже небезпечна штучка",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "17:30",
-          "title": "х/ф Молчащий класс",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "17:30",
-          "title": "т/с Пляжний готель ┊ 6",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "17:35",
-          "title": "Маестр",
-          "year": 1986,
-          "genre": "Сериалы, драма,приключения",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Hit HD",
-          "start_time": "17:35",
-          "title": "Королівство тварин",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "FILMUADRAMA HD",
-          "start_time": "17:35",
-          "title": "Пошт",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Cinema HD",
-          "start_time": "17:35",
-          "title": "Доктор Щастя",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "17:55",
-          "title": "х/ф Мисс Поттер",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Epic Drama HD",
-          "start_time": "18:15",
-          "title": "Клуб убивств Марло",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "FILMUADRAMA HD",
-          "start_time": "18:20",
-          "title": "Гречанк",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "18:20",
-          "title": "т/с Пляжний готель ┊ 7",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "18:25",
-          "title": "х/ф Испанский-английский",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "18:30",
-          "title": "Маестр",
-          "year": 1986,
-          "genre": "Сериалы, драма,приключения",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Legend",
-          "start_time": "18:30",
-          "title": "Усі запобіжні заходи",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "18:35",
-          "title": "х/ф Дикая река",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Kids HD",
-          "start_time": "18:40",
-          "title": "Kids Stories",
-          "year": null,
-          "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ HD",
-          "start_time": "18:55",
-          "title": "Великий утікач",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Kids HD",
-          "start_time": "19:00",
-          "title": "Рапунцель",
-          "year": null,
-          "genre": "Детям",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Enter-фільм HD",
-          "start_time": "19:00",
-          "title": "Зниклі",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "FILMUADRAMA HD",
-          "start_time": "19:05",
-          "title": "Гречанк",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "19:05",
-          "title": "т/с Другий захід ┊ 1",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Epic Drama HD",
-          "start_time": "19:10",
-          "title": "Клуб убивств Марло",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "19:20",
-          "title": "Маестр",
-          "year": 1986,
-          "genre": "Сериалы, драма,приключения",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Cinema HD",
-          "start_time": "19:20",
-          "title": "Бестселер з кохання",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "19:20",
-          "title": "х/ф Королева",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "19:30",
-          "title": "х/ф Лапочка",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "19:35",
-          "title": "т/с Вулиця, де я живу ┊ 3 Один крок за раз",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Hit HD",
-          "start_time": "19:50",
-          "title": "Знак пошани",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "FILMUADRAMA HD",
-          "start_time": "19:50",
-          "title": "Гречанк",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Epic Drama HD",
-          "start_time": "20:10",
-          "title": "Розслідування Мердок",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "20:10",
-          "title": "д/с Прикордонні сили США: Мости 2 ┊ 3",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "20:15",
-          "title": "Маестр",
-          "year": 1986,
-          "genre": "Сериалы, драма,приключения",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Legend",
-          "start_time": "20:20",
-          "title": "Олександр",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "20:20",
-          "title": "х/ф Мама",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "FILMUADRAMA HD",
-          "start_time": "20:35",
-          "title": "Гречанк",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ HD",
-          "start_time": "20:40",
-          "title": "Гора між нами",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Kids HD",
-          "start_time": "20:50",
-          "title": "Сімба - Король Лев. Остання битва",
-          "year": null,
-          "genre": "Детям",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Star Cinema HD",
-          "start_time": "20:55",
-          "title": "Східні солодощі",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "20:55",
-          "title": "т/с Другий захід ┊ 1",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "21:00",
-          "title": "х/ф Миллионер поневоле",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "21:00",
-          "title": "х/ф Почти семнадцать",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "21:00",
-          "title": "х/ф Воздушный шар",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "21:10",
-          "title": "Маестр",
-          "year": 1986,
-          "genre": "Сериалы, драма,приключения",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Epic Drama HD",
-          "start_time": "21:10",
-          "title": "Розслідування Мердок",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "FILMUADRAMA HD",
-          "start_time": "21:20",
-          "title": "Мереживо дол",
-          "year": 2016,
-          "genre": "Сериалы, мелодрама",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "21:25",
-          "title": "т/с Вулиця, де я живу ┊ 3 Один крок за раз",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Hit HD",
-          "start_time": "21:35",
-          "title": "Мисливці за скарбами",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Epic Drama HD",
-          "start_time": "22:00",
-          "title": "Комісар Ріккард",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "22:00",
-          "title": "х/ф Обитель зла: Последняя глава",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "22:00",
-          "title": "т/с Вероніка 2 ┊ 4 Паула",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "22:05",
-          "title": "Маестр",
-          "year": 1986,
-          "genre": "Сериалы, драма,приключения",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "FILMUADRAMA HD",
-          "start_time": "22:05",
-          "title": "Мереживо дол",
-          "year": 2016,
-          "genre": "Сериалы, мелодрама",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ HD",
-          "start_time": "22:40",
-          "title": "Кламмер. Виходячи за межі",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "22:45",
-          "title": "х/ф Ржавчина и кость",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "22:45",
-          "title": "т/с Фенріс ┊ 2 Хатина",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "FILMUADRAMA HD",
-          "start_time": "22:50",
-          "title": "Мереживо дол",
-          "year": 2016,
-          "genre": "Сериалы, мелодрама",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "22:55",
-          "title": "х/ф Удачи, Чак!",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "23:00",
-          "title": "Маестр",
-          "year": 1986,
-          "genre": "Сериалы, драма,приключения",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Kids HD",
-          "start_time": "23:00",
-          "title": "Час української анімації",
-          "year": null,
-          "genre": "Детям, произвольный",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Enter-фільм HD",
-          "start_time": "23:00",
-          "title": "Комісар Рекс",
-          "year": 1994,
-          "genre": "Сериалы, детектив,боевик,криминал",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "23:00",
-          "title": "х/ф Округление",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Legend",
-          "start_time": "23:20",
-          "title": "Рембо: Перша кров",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "23:30",
-          "title": "т/с Коробка ┊ 2 Проста історія",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Cine+ Hit HD",
-          "start_time": "23:40",
-          "title": "Поселенці",
-          "year": null,
-          "genre": "Фильмы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "FILMUADRAMA HD",
-          "start_time": "23:40",
-          "title": "Мереживо дол",
-          "year": 2016,
-          "genre": "Сериалы, мелодрама",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "23:45",
-          "title": "х/ф Другой мир: Пробуждение",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "BOLT HD",
-          "start_time": "23:55",
-          "title": "Відважн",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        }
-      ]
-    },
     {
       "date": "2026-10-18",
       "programmes": [
@@ -18006,7 +15967,7 @@
         {
           "channel": "Epic Drama HD",
           "start_time": "03:10",
-          "title": "Розслідування Мердок",
+          "title": "Расследование Мердок",
           "year": null,
           "genre": "Сериалы",
           "imdb_rating": null,
@@ -18159,7 +16120,7 @@
         {
           "channel": "Epic Drama HD",
           "start_time": "04:05",
-          "title": "Розслідування Мердок",
+          "title": "Расследование Мердок",
           "year": null,
           "genre": "Сериалы",
           "imdb_rating": null,
@@ -18171,6 +16132,15 @@
           "title": "х/ф Дисконт",
           "year": null,
           "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Epic Drama HD",
+          "start_time": "04:10",
+          "title": "Розслідування Мердок",
+          "year": null,
+          "genre": "Інше",
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -18213,7 +16183,7 @@
         {
           "channel": "Epic Drama HD",
           "start_time": "05:00",
-          "title": "Розслідування Мердок",
+          "title": "Расследование Мердок",
           "year": null,
           "genre": "Сериалы",
           "imdb_rating": null,
@@ -18310,6 +16280,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Epic Drama HD",
+          "start_time": "06:00",
+          "title": "Розслідування Мердок",
+          "year": null,
+          "genre": "Інше",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "FILMUADRAMA HD",
           "start_time": "06:00",
           "title": "Відважн",
@@ -18333,15 +16312,6 @@
           "title": "Зіркові долі",
           "year": null,
           "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Epic Drama HD",
-          "start_time": "06:30",
-          "title": "Про всі створіння - великі й мал",
-          "year": null,
-          "genre": "Сериалы",
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -18555,7 +16525,7 @@
         {
           "channel": "Epic Drama HD",
           "start_time": "08:25",
-          "title": "Про всі створіння - великі й мал",
+          "title": "О всех созданиях - больших и малы",
           "year": null,
           "genre": "Сериалы",
           "imdb_rating": null,
@@ -18744,7 +16714,7 @@
         {
           "channel": "Epic Drama HD",
           "start_time": "10:20",
-          "title": "Розслідування Мердок",
+          "title": "Расследование Мердок",
           "year": null,
           "genre": "Сериалы",
           "imdb_rating": null,
@@ -18942,7 +16912,7 @@
         {
           "channel": "Epic Drama HD",
           "start_time": "12:15",
-          "title": "Розслідування Мердок",
+          "title": "Расследование Мердок",
           "year": null,
           "genre": "Сериалы",
           "imdb_rating": null,
@@ -19140,7 +17110,7 @@
         {
           "channel": "Epic Drama HD",
           "start_time": "14:05",
-          "title": "Розслідування Мердок",
+          "title": "Расследование Мердок",
           "year": null,
           "genre": "Сериалы",
           "imdb_rating": null,
@@ -19161,6 +17131,15 @@
           "title": "м/ф Облачно, возможны осадки: Месть ГМО",
           "year": 2013,
           "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Epic Drama HD",
+          "start_time": "14:15",
+          "title": "Розслідування Мердок",
+          "year": null,
+          "genre": "Інше",
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -19230,7 +17209,7 @@
         {
           "channel": "Epic Drama HD",
           "start_time": "14:55",
-          "title": "Інспектор Джордж Джентл",
+          "title": "Инспектор Джордж Джентл",
           "year": null,
           "genre": "Сериалы",
           "imdb_rating": null,
@@ -19327,6 +17306,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Epic Drama HD",
+          "start_time": "15:55",
+          "title": "Інспектор Джордж Джентл",
+          "year": null,
+          "genre": "Інше",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "15:55",
           "title": "х/ф Вы еще ничего не видели",
@@ -19419,7 +17407,7 @@
         {
           "channel": "Epic Drama HD",
           "start_time": "16:50",
-          "title": "Інспектор Джордж Джентл",
+          "title": "Инспектор Джордж Джентл",
           "year": null,
           "genre": "Сериалы",
           "imdb_rating": null,
@@ -19516,6 +17504,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Epic Drama HD",
+          "start_time": "17:50",
+          "title": "Інспектор Джордж Джентл",
+          "year": null,
+          "genre": "Інше",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Serial HD",
           "start_time": "17:55",
           "title": "т/с Другий захід ┊ 4",
@@ -19599,7 +17596,7 @@
         {
           "channel": "Epic Drama HD",
           "start_time": "18:50",
-          "title": "Робін Гу",
+          "title": "Робин Гу",
           "year": null,
           "genre": "Сериалы, приключения,боевик,драма",
           "imdb_rating": null,
@@ -19687,6 +17684,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Epic Drama HD",
+          "start_time": "19:50",
+          "title": "Робін Гу",
+          "year": null,
+          "genre": "Інше",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Serial HD",
           "start_time": "19:50",
           "title": "т/с Другий захід ┊ 4",
@@ -19710,15 +17716,6 @@
           "title": "Я, робот",
           "year": null,
           "genre": "Інше",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Epic Drama HD",
-          "start_time": "20:00",
-          "title": "Гардейкр",
-          "year": null,
-          "genre": "Сериалы",
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -19806,7 +17803,7 @@
         {
           "channel": "Epic Drama HD",
           "start_time": "21:00",
-          "title": "Вбивство в маленькому містечк",
+          "title": "Гардейкр",
           "year": null,
           "genre": "Сериалы",
           "imdb_rating": null,
@@ -19984,20 +17981,20 @@
           "imdb_id": null
         },
         {
+          "channel": "Epic Drama HD",
+          "start_time": "22:55",
+          "title": "Джоа",
+          "year": 1985,
+          "genre": "Інше",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Enter-фільм HD",
           "start_time": "23:00",
           "title": "Енеїд",
           "year": null,
           "genre": "Другое",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Epic Drama HD",
-          "start_time": "23:00",
-          "title": "Гардейкр",
-          "year": null,
-          "genre": "Сериалы",
           "imdb_rating": null,
           "imdb_id": null
         },
@@ -20072,7 +18069,7 @@
         {
           "channel": "Epic Drama HD",
           "start_time": "00:00",
-          "title": "Інспектор Джордж Джентл",
+          "title": "Гардейкр",
           "year": null,
           "genre": "Сериалы",
           "imdb_rating": null,
@@ -20234,7 +18231,7 @@
         {
           "channel": "Epic Drama HD",
           "start_time": "01:55",
-          "title": "Інспектор Джордж Джентл",
+          "title": "Инспектор Джордж Джентл",
           "year": null,
           "genre": "Сериалы",
           "imdb_rating": null,
@@ -20340,6 +18337,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Epic Drama HD",
+          "start_time": "02:55",
+          "title": "Інспектор Джордж Джентл",
+          "year": null,
+          "genre": "Інше",
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Star Cinema HD",
           "start_time": "02:55",
           "title": "Доктор Щастя",
@@ -20394,15 +18400,6 @@
           "imdb_id": null
         },
         {
-          "channel": "Epic Drama HD",
-          "start_time": "03:55",
-          "title": "Про всі створіння - великі й мал",
-          "year": null,
-          "genre": "Сериалы",
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
           "channel": "FILMUADRAMA HD",
           "start_time": "04:05",
           "title": "Коротке слово",
@@ -20441,7 +18438,7 @@
         {
           "channel": "Epic Drama HD",
           "start_time": "04:50",
-          "title": "Про всі створіння - великі й мал",
+          "title": "О всех созданиях - больших и малы",
           "year": null,
           "genre": "Сериалы",
           "imdb_rating": null,
@@ -20473,6 +18470,15 @@
           "genre": "Сериалы, мелодрама,криминал,драма",
           "imdb_rating": null,
           "imdb_id": null
+        },
+        {
+          "channel": "Epic Drama HD",
+          "start_time": "05:50",
+          "title": "Про всі створіння - великі й мал",
+          "year": null,
+          "genre": "Інше",
+          "imdb_rating": null,
+          "imdb_id": null
         }
       ]
     },
@@ -20494,6 +18500,10 @@
     },
     {
       "date": "2026-10-31",
+      "programmes": []
+    },
+    {
+      "date": "2026-11-01",
       "programmes": []
     }
   ]
