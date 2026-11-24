@@ -1,6 +1,6 @@
 {
   "coverage_note": "IMDb додається лише за однозначним збігом назви та року; непідтверджені рейтинги не показуються.",
-  "updated": "2026-11-23T17:01+02:00",
+  "updated": "2026-11-24T15:45+02:00",
   "source": "https://iptv-epg.org/files/epg-ua.xml",
   "additional_source": "https://iptvx.one/EPG",
   "channel_groups": {
@@ -104,758 +104,6 @@
     "PROKINO"
   ],
   "days": [
-    {
-      "date": "2026-11-16",
-      "programmes": [
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "00:05",
-          "title": "х/ф Пираньи 3D",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "00:15",
-          "title": "х/ф Плохой Санта 2",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "00:15",
-          "title": "т/с Лють 2 ┊ 1 Революцію транслюватимуть по телебаченню",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "00:25",
-          "title": "х/ф Пропавшая",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "01:05",
-          "title": "х/ф Хлоя",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "01:25",
-          "title": "т/с Лють 2 ┊ 2 Поляризація та мобілізація",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "01:30",
-          "title": "х/ф Судная ночь 3",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "02:00",
-          "title": "х/ф Это – Spinal Tap",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "02:10",
-          "title": "х/ф Белое лето",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "02:25",
-          "title": "т/с Так чи інакше ┊ 1 Заради старих часів",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "02:40",
-          "title": "х/ф Американская милашка",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "02:55",
-          "title": "х/ф Мунк",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "03:15",
-          "title": "х/ф Город грехов",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "03:35",
-          "title": "х/ф Адаптация",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "03:35",
-          "title": "х/ф Гипнотизёр",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "04:35",
-          "title": "т/с Лють 2 ┊ 1 Революцію транслюватимуть по телебаченню",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "05:15",
-          "title": "х/ф Девушки мечты",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "05:20",
-          "title": "х/ф Запретное царство",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "05:30",
-          "title": "д/с Прикордонні сили США: Мости ┊ 4 Боротьба з кокаїном",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "05:55",
-          "title": "х/ф Вот я какой",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "06:00",
-          "title": "х/ф Дворецкий",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "06:15",
-          "title": "х/ф Проклятие моей матери",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "06:45",
-          "title": "д/с Прикордонні сили США: Мости ┊ 8 5000 набоїв",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "07:05",
-          "title": "х/ф Проклятая",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "07:25",
-          "title": "х/ф Тристан и Изольда",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "07:30",
-          "title": "т/с Пляжний готель 3 ┊ 6",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "08:00",
-          "title": "х/ф Джуно",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "08:10",
-          "title": "х/ф Ностальгия",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "08:15",
-          "title": "т/с Пляжний готель 3 ┊ 7",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "08:50",
-          "title": "х/ф Дни грома",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "09:00",
-          "title": "т/с Пляжний готель 3 ┊ 8",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "09:25",
-          "title": "х/ф Часы",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "09:45",
-          "title": "х/ф P. S. Я люблю тебя",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "09:50",
-          "title": "т/с Пляжний готель 4 ┊ 1",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "10:05",
-          "title": "х/ф Банда с Лавендер Хилл",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "10:35",
-          "title": "х/ф Охотник за головами",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "10:35",
-          "title": "д/с Прикордонні сили США: Мости ┊ 8 5000 набоїв",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "11:20",
-          "title": "х/ф Ной",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "11:20",
-          "title": "т/с Пляжний готель 3 ┊ 6",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "11:25",
-          "title": "х/ф Дива танго",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "12:05",
-          "title": "т/с Пляжний готель 3 ┊ 7",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "12:10",
-          "title": "х/ф Яйцеголовые",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "12:25",
-          "title": "х/ф Ради любви к игре",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "12:50",
-          "title": "т/с Пляжний готель 3 ┊ 8",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "13:00",
-          "title": "х/ф Все наши желания",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "13:35",
-          "title": "х/ф Мисс Поттер",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "13:40",
-          "title": "т/с Пляжний готель 4 ┊ 1",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "13:45",
-          "title": "х/ф Робот и Фрэнк",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "14:25",
-          "title": "д/с Прикордонні сили США: Мости ┊ 8 5000 набоїв",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "14:40",
-          "title": "х/ф Сахара",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "14:55",
-          "title": "х/ф Неизвестная страна",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "15:05",
-          "title": "х/ф Октябрьское небо",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "15:10",
-          "title": "т/с Пляжний готель 3 ┊ 6",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "15:30",
-          "title": "х/ф Обратно на Землю",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "15:55",
-          "title": "т/с Пляжний готель 3 ┊ 7",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "16:20",
-          "title": "х/ф Лапшичная",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "16:40",
-          "title": "х/ф Тепло наших тел",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "16:40",
-          "title": "т/с Пляжний готель 3 ┊ 8",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "16:50",
-          "title": "х/ф Милые кости",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "17:15",
-          "title": "м/ф Angry Birds в кино",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "17:30",
-          "title": "т/с Пляжний готель 4 ┊ 1",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "17:50",
-          "title": "х/ф Два дня для убийства",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "18:15",
-          "title": "х/ф Вышка",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "18:15",
-          "title": "д/с Прикордонні сили США: Мости ┊ 8 5000 набоїв",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "19:00",
-          "title": "х/ф Защитник",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "19:00",
-          "title": "т/с Пляжний готель 4 ┊ 2",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "19:10",
-          "title": "х/ф Шопо-коп",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "19:10",
-          "title": "х/ф Герцогиня",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "19:45",
-          "title": "т/с Пляжний готель 4 ┊ 3",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "20:00",
-          "title": "х/ф Добро пожаловать в Лэйквью!",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "20:30",
-          "title": "т/с Пляжний готель 4 ┊ 4",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "21:00",
-          "title": "х/ф Толстяк против всех",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "21:00",
-          "title": "х/ф Стертая личность",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "21:00",
-          "title": "х/ф Банды Парижа",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "21:15",
-          "title": "т/с Пляжний готель 4 ┊ 5",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "21:50",
-          "title": "х/ф Ангелы Чарли",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "22:00",
-          "title": "т/с Вероніка 3 ┊ 2 Знахідка",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino World",
-          "start_time": "22:30",
-          "title": "х/ф Завтрак на Плутоне",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "22:45",
-          "title": "т/с Фенріс ┊ 6 Розбірка",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Comedy HD",
-          "start_time": "22:50",
-          "title": "х/ф Наркотик",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino HD",
-          "start_time": "22:50",
-          "title": "х/ф Дракула",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Kino Action HD",
-          "start_time": "23:25",
-          "title": "х/ф Готика",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        },
-        {
-          "channel": "Viasat Serial HD",
-          "start_time": "23:35",
-          "title": "т/с Коробка ┊ 7 Королева коробки: частина 2",
-          "year": null,
-          "genre": null,
-          "imdb_rating": null,
-          "imdb_id": null
-        }
-      ]
-    },
     {
       "date": "2026-11-17",
       "programmes": [
@@ -5642,6 +4890,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "07:20",
+          "title": "т/с Пляжний готель 2 ┊ 2",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino HD",
           "start_time": "07:40",
           "title": "х/ф Тристан и Изольда",
@@ -5654,6 +4911,15 @@
           "channel": "Viasat Kino Action HD",
           "start_time": "07:45",
           "title": "х/ф Проклятая",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "08:10",
+          "title": "т/с Пляжний готель 2 ┊ 3",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -5678,6 +4944,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "08:55",
+          "title": "т/с Пляжний готель 2 ┊ 4",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "09:30",
           "title": "х/ф Три дня на побег",
@@ -5696,6 +4971,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "09:45",
+          "title": "т/с Пляжний готель 2 ┊ 5",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "10:00",
           "title": "х/ф Практика",
@@ -5705,9 +4989,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "10:30",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 3",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "10:40",
           "title": "х/ф Представь себе",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "11:15",
+          "title": "т/с Пляжний готель 2 ┊ 2",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -5741,9 +5043,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "12:05",
+          "title": "т/с Пляжний готель 2 ┊ 3",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "12:40",
           "title": "х/ф Мальчикам это нравится",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "12:55",
+          "title": "т/с Пляжний готель 2 ┊ 4",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -5777,6 +5097,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "13:40",
+          "title": "т/с Пляжний готель 2 ┊ 5",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "14:20",
           "title": "х/ф Мы тебя любим, мерзавец",
@@ -5795,6 +5124,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "14:30",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 3",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "14:55",
           "title": "х/ф Ангелы Чарли: Только вперёд",
@@ -5804,9 +5142,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "15:15",
+          "title": "т/с Пляжний готель 2 ┊ 2",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino HD",
           "start_time": "15:35",
           "title": "х/ф Шаг вперёд",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "16:00",
+          "title": "т/с Пляжний готель 2 ┊ 3",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -5840,9 +5196,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "16:50",
+          "title": "т/с Пляжний готель 2 ┊ 4",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino HD",
           "start_time": "17:15",
           "title": "х/ф Писатели свободы",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "17:35",
+          "title": "т/с Пляжний готель 2 ┊ 5",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -5876,6 +5250,24 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "18:25",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 3",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "19:10",
+          "title": "т/с Пляжний готель 2 ┊ 6",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino HD",
           "start_time": "19:15",
           "title": "х/ф Радио",
@@ -5888,6 +5280,15 @@
           "channel": "Viasat Kino World",
           "start_time": "19:20",
           "title": "х/ф Летнее время",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "19:55",
+          "title": "т/с Пляжний готель 2 ┊ 7",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -5912,6 +5313,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "20:45",
+          "title": "т/с Пляжний готель 2 ┊ 8",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino HD",
           "start_time": "21:00",
           "title": "х/ф Кирпич",
@@ -5924,6 +5334,15 @@
           "channel": "Viasat Kino World",
           "start_time": "21:00",
           "title": "х/ф В погоне за свободой",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "21:30",
+          "title": "т/с Пляжний готель 3 ┊ 1",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -5948,6 +5367,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "22:20",
+          "title": "т/с Вероніка 3 ┊ 3 Жертва",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "22:35",
           "title": "х/ф Миллионер из трущоб",
@@ -5960,6 +5388,24 @@
           "channel": "Viasat Kino HD",
           "start_time": "22:45",
           "title": "х/ф Дориан Грей",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "23:00",
+          "title": "т/с Коробка ┊ 1 Королева коробки",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "23:35",
+          "title": "т/с Фенріс ┊ 1",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -5983,6 +5429,15 @@
           "channel": "Viasat Kino Comedy HD",
           "start_time": "00:10",
           "title": "х/ф Клерки 2",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "00:20",
+          "title": "х/ф Орка",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -6025,6 +5480,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "02:10",
+          "title": "т/с Вероніка 3 ┊ 3 Жертва",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino HD",
           "start_time": "02:20",
           "title": "х/ф Народ против Ларри Флинта",
@@ -6043,9 +5507,36 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "02:50",
+          "title": "т/с Коробка ┊ 1 Королева коробки",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "03:25",
+          "title": "т/с Фенріс ┊ 1",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "04:10",
           "title": "х/ф Обман",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "04:15",
+          "title": "х/ф Орка",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -6124,6 +5615,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "06:30",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 4",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino HD",
           "start_time": "06:35",
           "title": "х/ф Осень в Нью-Йорке",
@@ -6136,6 +5636,15 @@
           "channel": "Viasat Kino Action HD",
           "start_time": "06:40",
           "title": "х/ф Останавливающие время",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "07:15",
+          "title": "т/с Пляжний готель 2 ┊ 6",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -6160,6 +5669,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "08:00",
+          "title": "т/с Пляжний готель 2 ┊ 7",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "08:10",
           "title": "х/ф Вышка",
@@ -6172,6 +5690,15 @@
           "channel": "Viasat Kino HD",
           "start_time": "08:20",
           "title": "х/ф Хорошие поступки",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "08:50",
+          "title": "т/с Пляжний готель 2 ┊ 8",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -6196,6 +5723,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "09:40",
+          "title": "т/с Пляжний готель 3 ┊ 1",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "09:55",
           "title": "х/ф Запретное царство",
@@ -6214,9 +5750,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "10:25",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 4",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "10:55",
           "title": "х/ф Флэш Гордон",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "11:10",
+          "title": "т/с Пляжний готель 2 ┊ 6",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -6250,6 +5804,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "11:55",
+          "title": "т/с Пляжний готель 2 ┊ 7",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "12:45",
           "title": "х/ф Третий человек",
@@ -6259,9 +5822,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "12:45",
+          "title": "т/с Пляжний готель 2 ┊ 8",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "13:20",
           "title": "х/ф Вышка",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "13:35",
+          "title": "т/с Пляжний готель 3 ┊ 1",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -6286,6 +5867,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "14:20",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 4",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "14:25",
           "title": "х/ф Мой первый раз",
@@ -6304,9 +5894,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "15:05",
+          "title": "т/с Пляжний готель 2 ┊ 6",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino HD",
           "start_time": "15:35",
           "title": "х/ф В лучах славы",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "15:50",
+          "title": "т/с Пляжний готель 2 ┊ 7",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -6331,6 +5939,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "16:40",
+          "title": "т/с Пляжний готель 2 ┊ 8",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "16:50",
           "title": "х/ф Вышка",
@@ -6349,6 +5966,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "17:30",
+          "title": "т/с Пляжний готель 3 ┊ 1",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "18:05",
           "title": "х/ф Счастливая одиночка",
@@ -6361,6 +5987,15 @@
           "channel": "Viasat Kino Comedy HD",
           "start_time": "18:10",
           "title": "м/ф Облачно, возможны осадки: Месть ГМО",
+          "year": 2013,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "18:15",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 4",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -6370,6 +6005,15 @@
           "channel": "Viasat Kino Action HD",
           "start_time": "18:30",
           "title": "х/ф Штурм Белого дома",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "19:00",
+          "title": "т/с Пляжний готель 3 ┊ 2",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -6394,9 +6038,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "19:45",
+          "title": "т/с Пляжний готель 3 ┊ 3",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "20:00",
           "title": "х/ф Отличница лёгкого поведения",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "20:30",
+          "title": "т/с Пляжний готель 3 ┊ 4",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -6430,6 +6092,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "21:20",
+          "title": "т/с Пляжний готель 3 ┊ 5",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "21:50",
           "title": "х/ф Супруги Морган в бегах",
@@ -6448,9 +6119,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "22:05",
+          "title": "т/с Кінець літа ┊ 1",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino HD",
           "start_time": "23:00",
           "title": "х/ф Сонная Лощина",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "23:00",
+          "title": "т/с Жінки-вбивці ┊ 2 Іскра",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -6473,6 +6162,15 @@
           "genre": null,
           "imdb_rating": null,
           "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "23:40",
+          "title": "т/с Прибульці з минулого ┊ 1",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
         }
       ]
     },
@@ -6483,6 +6181,15 @@
           "channel": "Viasat Kino Comedy HD",
           "start_time": "00:00",
           "title": "х/ф Старая закалка",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "00:35",
+          "title": "т/с Вероніка 3 ┊ 3 Жертва",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -6507,6 +6214,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "01:15",
+          "title": "т/с Кінець літа ┊ 1",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "01:25",
           "title": "х/ф Красивый бандит",
@@ -6525,9 +6241,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "02:10",
+          "title": "т/с Жінки-вбивці ┊ 2 Іскра",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino HD",
           "start_time": "02:20",
           "title": "х/ф Вожделение",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "02:55",
+          "title": "т/с Вероніка 3 ┊ 3 Жертва",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -6555,6 +6289,24 @@
           "channel": "Viasat Kino Comedy HD",
           "start_time": "03:30",
           "title": "х/ф Евротур",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "03:35",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 3",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "04:20",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 4",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -6606,9 +6358,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "06:40",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 5",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "06:55",
           "title": "х/ф Множество",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "07:25",
+          "title": "т/с Пляжний готель 3 ┊ 2",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -6633,9 +6403,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "08:10",
+          "title": "т/с Пляжний готель 3 ┊ 3",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "08:30",
           "title": "х/ф Как принц",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "08:55",
+          "title": "т/с Пляжний готель 3 ┊ 4",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -6669,9 +6457,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "09:45",
+          "title": "т/с Пляжний готель 3 ┊ 5",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "10:00",
           "title": "х/ф Анонимные романтики",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "10:30",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 5",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -6696,6 +6502,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "11:15",
+          "title": "т/с Пляжний готель 3 ┊ 2",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "11:20",
           "title": "х/ф Сахара",
@@ -6714,9 +6529,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "12:00",
+          "title": "т/с Пляжний готель 3 ┊ 3",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "12:35",
           "title": "х/ф Школа рока",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "12:45",
+          "title": "т/с Пляжний готель 3 ┊ 4",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -6750,6 +6583,24 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "13:35",
+          "title": "т/с Пляжний готель 3 ┊ 5",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "14:20",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 5",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "14:35",
           "title": "х/ф Наполеон Динамит",
@@ -6762,6 +6613,15 @@
           "channel": "Viasat Kino World",
           "start_time": "14:55",
           "title": "х/ф Вопрос терпения",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "15:05",
+          "title": "т/с Пляжний готель 3 ┊ 2",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -6786,6 +6646,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "15:50",
+          "title": "т/с Пляжний готель 3 ┊ 3",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "16:15",
           "title": "х/ф Летнее время",
@@ -6798,6 +6667,15 @@
           "channel": "Viasat Kino Comedy HD",
           "start_time": "16:20",
           "title": "м/ф Облачно, возможны осадки в виде фрикаделек",
+          "year": 2009,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "16:40",
+          "title": "т/с Пляжний готель 3 ┊ 4",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -6822,6 +6700,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "17:25",
+          "title": "т/с Пляжний готель 3 ┊ 5",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "17:55",
           "title": "х/ф Маленькая ведьма",
@@ -6840,9 +6727,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "18:10",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 5",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "18:40",
           "title": "х/ф Запретное царство",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "18:55",
+          "title": "т/с Пляжний готель 3 ┊ 6",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -6867,6 +6772,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "19:40",
+          "title": "т/с Пляжний готель 3 ┊ 7",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "20:00",
           "title": "х/ф Колдунья",
@@ -6879,6 +6793,15 @@
           "channel": "Viasat Kino Action HD",
           "start_time": "20:20",
           "title": "х/ф Мама",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "20:30",
+          "title": "т/с Пляжний готель 3 ┊ 8",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -6903,6 +6826,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "21:15",
+          "title": "т/с Пляжний готель 4 ┊ 1",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "22:00",
           "title": "х/ф Никогда не сдавайся",
@@ -6921,6 +6853,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "22:00",
+          "title": "х/ф Прокляття",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "22:45",
           "title": "х/ф Суррогат",
@@ -6933,6 +6874,15 @@
           "channel": "Viasat Kino HD",
           "start_time": "23:00",
           "title": "х/ф Красота по-американски",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "23:45",
+          "title": "т/с Кінець літа ┊ 1",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -6971,6 +6921,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "00:45",
+          "title": "т/с Прибульці з минулого ┊ 1",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino HD",
           "start_time": "01:00",
           "title": "х/ф Часы",
@@ -6989,9 +6948,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "01:35",
+          "title": "т/с Жінки-вбивці ┊ 2 Іскра",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "02:00",
           "title": "х/ф Лучшее впереди",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "02:15",
+          "title": "х/ф Прокляття",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -7034,6 +7011,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "04:00",
+          "title": "т/с Кінець літа ┊ 1",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "04:40",
           "title": "х/ф Множество",
@@ -7052,6 +7038,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "05:05",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 5",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino HD",
           "start_time": "05:30",
           "title": "х/ф Гордость и предубеждение",
@@ -7061,9 +7056,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "05:50",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 6",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino HD",
           "start_time": "06:40",
           "title": "х/ф Планета Ка-Пэкс",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "06:50",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 6",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -7091,6 +7104,24 @@
           "channel": "Viasat Kino World",
           "start_time": "07:15",
           "title": "х/ф Флэш Гордон",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "07:35",
+          "title": "т/с Пляжний готель 3 ┊ 6",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "08:20",
+          "title": "т/с Пляжний готель 3 ┊ 7",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -7133,6 +7164,24 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "09:05",
+          "title": "т/с Пляжний готель 3 ┊ 8",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "09:55",
+          "title": "т/с Пляжний готель 4 ┊ 1",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino HD",
           "start_time": "10:30",
           "title": "х/ф Спаркл",
@@ -7151,6 +7200,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "10:40",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 6",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "10:45",
           "title": "х/ф Секс-гуру",
@@ -7163,6 +7221,24 @@
           "channel": "Viasat Kino World",
           "start_time": "10:45",
           "title": "х/ф Мой первый раз",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "11:25",
+          "title": "т/с Пляжний готель 3 ┊ 6",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "12:10",
+          "title": "т/с Пляжний готель 3 ┊ 7",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -7205,6 +7281,24 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "12:55",
+          "title": "т/с Пляжний готель 3 ┊ 8",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "13:40",
+          "title": "т/с Пляжний готель 4 ┊ 1",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "14:10",
           "title": "х/ф Три дня на побег",
@@ -7241,6 +7335,24 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "14:30",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 6",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "15:15",
+          "title": "т/с Пляжний готель 3 ┊ 6",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "16:00",
           "title": "х/ф Чудеса в Париже",
@@ -7250,10 +7362,19 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "16:00",
+          "title": "т/с Пляжний готель 3 ┊ 7",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "16:05",
           "title": "м/ф Облачно, возможны осадки: Месть ГМО",
-          "year": null,
+          "year": 2013,
           "genre": null,
           "imdb_rating": null,
           "imdb_id": null
@@ -7277,9 +7398,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "16:45",
+          "title": "т/с Пляжний готель 3 ┊ 8",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "17:20",
           "title": "х/ф Сельма",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "17:30",
+          "title": "т/с Пляжний готель 4 ┊ 1",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -7313,6 +7452,24 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "18:20",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 6",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "19:05",
+          "title": "т/с Пляжний готель 4 ┊ 2",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino HD",
           "start_time": "19:25",
           "title": "х/ф Мальчик в полосатой пижаме",
@@ -7325,6 +7482,15 @@
           "channel": "Viasat Kino World",
           "start_time": "19:25",
           "title": "х/ф Мой первый раз",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "19:50",
+          "title": "т/с Пляжний готель 4 ┊ 3",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -7349,6 +7515,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "20:35",
+          "title": "т/с Пляжний готель 4 ┊ 4",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino HD",
           "start_time": "21:00",
           "title": "х/ф Стертая личность",
@@ -7361,6 +7536,15 @@
           "channel": "Viasat Kino World",
           "start_time": "21:00",
           "title": "х/ф Кенди и Бонита",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "21:20",
+          "title": "т/с Пляжний готель 4 ┊ 5",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -7385,6 +7569,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "22:05",
+          "title": "т/с Фенріс ┊ 2 Хатина",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "22:35",
           "title": "х/ф Потерянный рай",
@@ -7403,9 +7596,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "22:55",
+          "title": "т/с Залишенець 2 ┊ 4 Темні коридори",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "23:30",
           "title": "х/ф Звонок",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "23:30",
+          "title": "т/с Ребус ┊ 4",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -7426,6 +7637,15 @@
       "date": "2026-11-27",
       "programmes": [
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "00:15",
+          "title": "т/с Коробка ┊ 1 Королева коробки",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "00:30",
           "title": "х/ф Вера Дрейк",
@@ -7444,6 +7664,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "00:50",
+          "title": "т/с Фенріс ┊ 2 Хатина",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "01:20",
           "title": "х/ф Потерянный рейс",
@@ -7453,9 +7682,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "01:40",
+          "title": "т/с Залишенець 2 ┊ 4 Темні коридори",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "02:00",
           "title": "х/ф Милашка",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "02:15",
+          "title": "т/с Ребус ┊ 4",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -7480,6 +7727,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "03:00",
+          "title": "т/с Коробка ┊ 1 Королева коробки",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "03:20",
           "title": "х/ф Последний рейд",
@@ -7498,6 +7754,24 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "03:35",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 5",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "04:20",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 6",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "04:30",
           "title": "х/ф Обман",
@@ -7507,9 +7781,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "05:00",
+          "title": "т/с Жінки-вбивці ┊ 2 Іскра",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "05:25",
           "title": "х/ф Запретное царство",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "05:40",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 7",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -7543,6 +7835,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "06:50",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 7",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino HD",
           "start_time": "06:55",
           "title": "х/ф Степфордские жёны",
@@ -7561,9 +7862,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "07:35",
+          "title": "т/с Пляжний готель 4 ┊ 2",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "07:40",
           "title": "х/ф Мы тебя любим, мерзавец",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "08:20",
+          "title": "т/с Пляжний готель 4 ┊ 3",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -7597,9 +7916,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "09:05",
+          "title": "т/с Пляжний готель 4 ┊ 4",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "09:40",
           "title": "х/ф С новой силой",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "09:55",
+          "title": "т/с Пляжний готель 4 ┊ 5",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -7624,6 +7961,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "10:40",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 7",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "10:50",
           "title": "х/ф Вышка",
@@ -7642,9 +7988,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "11:25",
+          "title": "т/с Пляжний готель 4 ┊ 2",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino HD",
           "start_time": "12:05",
           "title": "х/ф Радио",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "12:10",
+          "title": "т/с Пляжний готель 4 ┊ 3",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -7672,6 +8036,24 @@
           "channel": "Viasat Kino World",
           "start_time": "12:40",
           "title": "х/ф Летнее время",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "12:55",
+          "title": "т/с Пляжний готель 4 ┊ 4",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "13:40",
+          "title": "т/с Пляжний готель 4 ┊ 5",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -7714,6 +8096,24 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "14:30",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 7",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "15:15",
+          "title": "т/с Пляжний готель 4 ┊ 2",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino HD",
           "start_time": "16:00",
           "title": "х/ф Социальная сеть",
@@ -7726,6 +8126,15 @@
           "channel": "Viasat Kino World",
           "start_time": "16:00",
           "title": "х/ф Вопрос терпения",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "16:00",
+          "title": "т/с Пляжний готель 4 ┊ 3",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -7750,9 +8159,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "16:45",
+          "title": "т/с Пляжний готель 4 ┊ 4",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "17:20",
           "title": "х/ф С новой силой",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "17:30",
+          "title": "т/с Пляжний готель 4 ┊ 5",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -7777,6 +8204,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "18:15",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 7",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "18:20",
           "title": "м/ф Карапузы",
@@ -7789,6 +8225,24 @@
           "channel": "Viasat Kino World",
           "start_time": "19:00",
           "title": "х/ф Мы тебя любим, мерзавец",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "19:00",
+          "title": "т/с Пляжний готель 4 ┊ 6",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "19:45",
+          "title": "т/с Пляжний готель 4 ┊ 7",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -7822,6 +8276,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "20:30",
+          "title": "т/с Пляжний готель 4 ┊ 8",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "21:00",
           "title": "х/ф Война",
@@ -7831,9 +8294,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "21:15",
+          "title": "т/с Пляжний готель ┊ 1",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "22:00",
           "title": "х/ф Добро пожаловать в Зомбилэнд",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "22:00",
+          "title": "т/с Віддача ┊ 5",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -7858,6 +8339,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "22:45",
+          "title": "т/с Прибульці з минулого ┊ 2",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "22:55",
           "title": "х/ф Год лисы",
@@ -7874,12 +8364,30 @@
           "genre": null,
           "imdb_rating": null,
           "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "23:30",
+          "title": "т/с Залишенець 2 ┊ 4 Темні коридори",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
         }
       ]
     },
     {
       "date": "2026-11-28",
       "programmes": [
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "00:05",
+          "title": "т/с Вероніка 3 ┊ 3 Жертва",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
         {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "00:10",
@@ -7908,9 +8416,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "00:50",
+          "title": "т/с Ребус ┊ 4",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "01:05",
           "title": "х/ф 28 дней спустя",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "01:35",
+          "title": "т/с Віддача ┊ 5",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -7935,6 +8461,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "02:20",
+          "title": "т/с Вероніка 3 ┊ 3 Жертва",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "02:35",
           "title": "х/ф Марго на свадьбе",
@@ -7947,6 +8482,24 @@
           "channel": "Viasat Kino Action HD",
           "start_time": "02:55",
           "title": "х/ф Потерянный рейс",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "03:05",
+          "title": "т/с Залишенець 2 ┊ 4 Темні коридори",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "03:35",
+          "title": "т/с Ребус ┊ 4",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -7980,9 +8533,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "04:25",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 7",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino HD",
           "start_time": "05:00",
           "title": "х/ф Планета Ка-Пэкс",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "05:05",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 7",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8001,6 +8572,15 @@
           "channel": "Viasat Kino Action HD",
           "start_time": "05:40",
           "title": "х/ф Вышка",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "05:50",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 8",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8034,9 +8614,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "06:40",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 8",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "07:10",
           "title": "х/ф Три дня на побег",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "07:25",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 9",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8061,6 +8659,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "08:10",
+          "title": "т/с Другий захід 2 ┊ 5",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "08:30",
           "title": "х/ф Думай как мужчина",
@@ -8070,9 +8677,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "08:40",
+          "title": "т/с Пляжний готель 2 ┊ 6",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "09:20",
           "title": "х/ф Вышка",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "09:25",
+          "title": "т/с Пляжний готель 2 ┊ 7",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8097,10 +8722,19 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "10:10",
+          "title": "т/с Пляжний готель 2 ┊ 8",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "10:45",
           "title": "м/ф Облачно, возможны осадки в виде фрикаделек",
-          "year": null,
+          "year": 2009,
           "genre": null,
           "imdb_rating": null,
           "imdb_id": null
@@ -8109,6 +8743,15 @@
           "channel": "Viasat Kino World",
           "start_time": "10:55",
           "title": "х/ф Счастливая одиночка",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "11:00",
+          "title": "т/с Пляжний готель 3 ┊ 1",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8124,9 +8767,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "11:50",
+          "title": "т/с Другий захід 2 ┊ 5",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino HD",
           "start_time": "11:55",
           "title": "х/ф Поиск",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "12:15",
+          "title": "т/с Роня, дочка розбійника 2 ┊ 3",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8151,6 +8812,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "13:00",
+          "title": "т/с Пляжний готель 3 ┊ 6",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "13:10",
           "title": "х/ф Вспомнить всё",
@@ -8163,6 +8833,15 @@
           "channel": "Viasat Kino HD",
           "start_time": "13:35",
           "title": "х/ф Волшебная страна",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "13:45",
+          "title": "т/с Пляжний готель 3 ┊ 7",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8187,6 +8866,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "14:30",
+          "title": "т/с Пляжний готель 3 ┊ 8",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "15:05",
           "title": "х/ф Вышка",
@@ -8205,6 +8893,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "15:20",
+          "title": "т/с Пляжний готель 4 ┊ 1",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "15:50",
           "title": "х/ф Мой первый раз",
@@ -8214,9 +8911,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "16:05",
+          "title": "т/с Другий захід 2 ┊ 5",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "16:15",
           "title": "х/ф Моя ужасная няня 2",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "16:35",
+          "title": "т/с Роня, дочка розбійника 2 ┊ 3",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8241,9 +8956,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "17:15",
+          "title": "т/с Пляжний готель 4 ┊ 6",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "17:30",
           "title": "х/ф Третий человек",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "18:05",
+          "title": "т/с Пляжний готель 4 ┊ 7",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8277,9 +9010,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "18:50",
+          "title": "т/с Другий захід 2 ┊ 5",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "19:10",
           "title": "х/ф Флэш Гордон",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "19:20",
+          "title": "т/с Роня, дочка розбійника 2 ┊ 3",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8295,9 +9046,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "20:00",
+          "title": "д/с Прикордонні сили США: Мости ┊ 5 Приманка",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "20:25",
           "title": "х/ф Оборотни",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "20:50",
+          "title": "т/с Другий захід 2 ┊ 5",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8322,6 +9091,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "21:15",
+          "title": "т/с Роня, дочка розбійника 2 ┊ 3",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "21:55",
           "title": "х/ф Мистер и миссис Смит",
@@ -8340,9 +9118,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "22:00",
+          "title": "т/с Вероніка 3 ┊ 4 Шлях",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "22:40",
           "title": "х/ф Портрет девушки в огне",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "22:45",
+          "title": "т/с Фенріс ┊ 2 Хатина",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8365,12 +9161,30 @@
           "genre": null,
           "imdb_rating": null,
           "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "23:35",
+          "title": "т/с Коробка ┊ 1 Королева коробки",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
         }
       ]
     },
     {
       "date": "2026-11-29",
       "programmes": [
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "00:10",
+          "title": "т/с Лють ┊ 1 Втрать себе, і все втрачено",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
         {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "00:15",
@@ -8384,6 +9198,15 @@
           "channel": "Viasat Kino World",
           "start_time": "00:35",
           "title": "х/ф В погоне за свободой",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "01:00",
+          "title": "т/с Лють ┊ 2 Кроляча нора",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8408,6 +9231,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "01:50",
+          "title": "т/с Вероніка 3 ┊ 4 Шлях",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "02:10",
           "title": "х/ф Суррогат",
@@ -8420,6 +9252,15 @@
           "channel": "Viasat Kino Comedy HD",
           "start_time": "02:15",
           "title": "х/ф Роксана",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "02:35",
+          "title": "т/с Фенріс ┊ 2 Хатина",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8444,9 +9285,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "03:25",
+          "title": "т/с Коробка ┊ 1 Королева коробки",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "03:40",
           "title": "х/ф Айрис",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "04:00",
+          "title": "т/с Лють ┊ 1 Втрать себе, і все втрачено",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8462,9 +9321,45 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "04:50",
+          "title": "т/с Лють ┊ 2 Кроляча нора",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "05:10",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 8",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "05:25",
           "title": "х/ф Проклятая",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "05:55",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 7",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "06:30",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 8",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8507,9 +9402,36 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "07:35",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 10",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "08:20",
+          "title": "т/с Другий захід 2 ┊ 6",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "08:30",
           "title": "х/ф Вопрос терпения",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "08:50",
+          "title": "т/с Пляжний готель 3 ┊ 2",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8543,6 +9465,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "09:35",
+          "title": "т/с Пляжний готель 3 ┊ 3",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "09:55",
           "title": "х/ф Летнее время",
@@ -8552,10 +9483,19 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "10:20",
+          "title": "т/с Пляжний готель 3 ┊ 4",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "10:45",
           "title": "м/ф Облачно, возможны осадки: Месть ГМО",
-          "year": null,
+          "year": 2013,
           "genre": null,
           "imdb_rating": null,
           "imdb_id": null
@@ -8579,9 +9519,36 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "11:10",
+          "title": "т/с Пляжний готель 3 ┊ 5",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "11:35",
           "title": "х/ф Маленькая ведьма",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "11:55",
+          "title": "т/с Другий захід 2 ┊ 6",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "12:25",
+          "title": "т/с Роня, дочка розбійника 2 ┊ 4",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8615,9 +9582,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "13:10",
+          "title": "т/с Пляжний готель 4 ┊ 2",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "13:15",
           "title": "х/ф Вопрос терпения",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "13:55",
+          "title": "т/с Пляжний готель 4 ┊ 3",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8651,9 +9636,36 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "14:40",
+          "title": "т/с Пляжний готель 4 ┊ 4",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino HD",
           "start_time": "14:55",
           "title": "х/ф Бегущий за ветром",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "15:25",
+          "title": "т/с Пляжний готель 4 ┊ 5",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "16:10",
+          "title": "т/с Другий захід 2 ┊ 6",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8687,6 +9699,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "16:40",
+          "title": "т/с Роня, дочка розбійника 2 ┊ 4",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino HD",
           "start_time": "17:00",
           "title": "х/ф Хорошие поступки",
@@ -8696,9 +9717,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "17:20",
+          "title": "т/с Пляжний готель 4 ┊ 8",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "18:00",
           "title": "х/ф Ради любви к игре",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "18:10",
+          "title": "т/с Пляжний готель ┊ 1",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8732,6 +9771,24 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "18:50",
+          "title": "т/с Другий захід 2 ┊ 6",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "19:20",
+          "title": "т/с Роня, дочка розбійника 2 ┊ 4",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino World",
           "start_time": "19:30",
           "title": "х/ф Как принц",
@@ -8750,9 +9807,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "20:05",
+          "title": "д/с Прикордонні сили США: Мости ┊ 6 Арешт метамфетаміну на п'ять мільйонів доларів",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Action HD",
           "start_time": "20:15",
           "title": "х/ф Железная хватка",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "20:45",
+          "title": "т/с Другий захід 2 ┊ 6",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8777,6 +9852,15 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "21:15",
+          "title": "т/с Роня, дочка розбійника 2 ┊ 4",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "21:55",
           "title": "х/ф Сёстры",
@@ -8789,6 +9873,24 @@
           "channel": "Viasat Kino Action HD",
           "start_time": "22:00",
           "title": "х/ф Обитель зла",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "22:00",
+          "title": "т/с Так чи інакше ┊ 3 Район Маласанья",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "22:35",
+          "title": "х/ф Прокляття",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8836,9 +9938,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "00:20",
+          "title": "т/с Лють ┊ 3 Слова мають значення",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino HD",
           "start_time": "00:30",
           "title": "х/ф Искупление",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "01:05",
+          "title": "т/с Лють ┊ 4 Білі паркани",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8863,9 +9983,27 @@
           "imdb_id": null
         },
         {
+          "channel": "Viasat Serial HD",
+          "start_time": "01:55",
+          "title": "т/с Так чи інакше ┊ 3 Район Маласанья",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
           "channel": "Viasat Kino Comedy HD",
           "start_time": "02:25",
           "title": "х/ф Супруги Морган в бегах",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "02:25",
+          "title": "х/ф Прокляття",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8893,6 +10031,15 @@
           "channel": "Viasat Kino World",
           "start_time": "03:45",
           "title": "х/ф Потерянный рай",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "04:10",
+          "title": "т/с Лють ┊ 3 Слова мають значення",
           "year": null,
           "genre": null,
           "imdb_rating": null,
@@ -8951,8 +10098,21 @@
           "genre": null,
           "imdb_rating": null,
           "imdb_id": null
+        },
+        {
+          "channel": "Viasat Serial HD",
+          "start_time": "05:45",
+          "title": "д/с Прикордонні сили США: Мости 2 ┊ 7",
+          "year": null,
+          "genre": null,
+          "imdb_rating": null,
+          "imdb_id": null
         }
       ]
+    },
+    {
+      "date": "2026-12-01",
+      "programmes": []
     }
   ]
 }
